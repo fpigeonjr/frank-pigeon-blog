@@ -30,7 +30,7 @@ I have heard that many of the most successful people in the world wake up early.
 
 Also waking up early requires discipline, and once you start the day with disciple it carries on with you the rest of the day.
 <a href="https://www.instagram.com/p/BraJBUphWeV/" target="_blank">
-<img src="./430.png" alt="430 club">
+<img src="./430.png" alt="430 club"/>
 </a>
 
 > 💪there is even a club of early risers, the #430 club!
