@@ -3,7 +3,7 @@
 
 # gatsby-starter-morning-dew
 
-:rocket: A gatsby-starter-morning-dew is a Gatsby starter to build lightning-fast websites!  
+:rocket: A gatsby-starter-morning-dew is a Gatsby starter to build lightning-fast websites!
 :dizzy: You can also use gatsby-starter-morning-dew as a Gatsby Theme
 
 [Demo website.](https://maxpou.github.io/gatsby-starter-morning-dew/)
@@ -20,7 +20,7 @@
 - :iphone: Mobile Friendly (Responsive design)
 - :sparkles: PWA ready
   - :airplane: Offline support
-  - :page_with_curl: Manifest support 
+  - :page_with_curl: Manifest support
 - [:wrench: Fully configurable (see data/siteConfig.js)](./data/siteConfig.js)
 - :speech_balloon: Disqus support
 - :nail_care: css-in-js (with [styled-components v4](https://www.styled-components.com))
@@ -37,8 +37,8 @@
 
 ## Installation (starter)
 
-* with Gatsby-cli: 
-  
+* with Gatsby-cli:
+
 ```bash
 npm install --global gatsby-cli
 gatsby new gatsby-blog https://github.com/maxpou/gatsby-starter-morning-dew
@@ -86,8 +86,8 @@ You can also use `gatsby-starter-morning-dew` as a [Gatsby theme](https://www.ga
       },
   ],
   ```
-3. Add an image called `baymax.png` in `content/images/baymax.png`.  
-🐞This is due to a bug.  
+3. Add an image called `baymax.png` in `content/images/baymax.png`.
+🐞This is due to a bug.
 😬 Don't worry, this picture will not appear on your website!
 
 Need more details? Checkout:
@@ -129,7 +129,7 @@ module.exports = {
   authorDescription: `
   For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
   On his day to day job, he is working as a senior front-end engineer at VSware. He is also a frequent tech speaker and a mentor.
-  As a new digital nomad, he is living where the WIFI and sun is 😎 <br>
+  As a new digital nomad, he is living where the WIFI and sun is 😎 <br/>
   Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
   `,
   siteUrl: 'https://maxpou.github.io/',
