@@ -1,8 +1,10 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/704c3fe0-64de-4c17-ba42-57fb75518716/deploy-status)](https://app.netlify.com/sites/mystifying-edison-d53910/deploys)
+gs[![Netlify Status](https://api.netlify.com/api/v1/badges/704c3fe0-64de-4c17-ba42-57fb75518716/deploy-status)](https://app.netlify.com/sites/mystifying-edison-d53910/deploys)
 
 # Netlify Deployment Server
 
-:rocket: [https://mystifying-edison-d53910.netlify.com/](https://mystifying-edison-d53910.netlify.com/)
+:rocket: Master Branch: [https://mystifying-edison-d53910.netlify.com/](https://mystifying-edison-d53910.netlify.com/)
+
+:rocket: Staging Branch: [https://quirky-hypatia-6019c0.netlify.com/](https://quirky-hypatia-6019c0.netlify.com/)
 
 # gatsby-starter-morning-dew
 
