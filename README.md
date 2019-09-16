@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/maxpou/gatsby-starter-morning-dew.svg?branch=master)](https://travis-ci.org/maxpou/gatsby-starter-morning-dew) [![Netlify Status](https://api.netlify.com/api/v1/badges/d68027bd-19b5-44fd-a2a3-d1f05fc8201e/deploy-status)](https://app.netlify.com/sites/gatsby-starter-morning-dew/deploys) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Maintainability](https://api.codeclimate.com/v1/badges/e09f1ac1a5cdb2987a6f/maintainability)](https://codeclimate.com/github/maxpou/gatsby-starter-morning-dew/maintainability) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+# Netlify Deployment Server
+
+:rocket: [https://mystifying-edison-d53910.netlify.com/](https://mystifying-edison-d53910.netlify.com/)
 
 # gatsby-starter-morning-dew
 
@@ -32,19 +35,18 @@
   - prettier
 - :construction_worker: Travis CI support
 
-
 ![Lighthouse scores (locally :bowtie:)](https://lighthouse.now.sh/?perf=100&pwa=100&a11y=100&bp=100&seo=100)
 
 ## Installation (starter)
 
-* with Gatsby-cli:
+- with Gatsby-cli:
 
 ```bash
 npm install --global gatsby-cli
 gatsby new gatsby-blog https://github.com/maxpou/gatsby-starter-morning-dew
 ```
 
-* without Gatsby-cli
+- without Gatsby-cli
 
 ```bash
 git clone my-site git@github.com:maxpou/gatsby-starter-morning-dew.git
@@ -54,46 +56,49 @@ npm install
 
 Then run `npm run develop` to try it locally.
 
-
 ## Installation (theme)
 
 You can also use `gatsby-starter-morning-dew` as a [Gatsby theme](https://www.gatsbyjs.org/blog/2018-11-11-introducing-gatsby-themes/)!
 
 1. Add the theme
-  ```bash
-  npm install gatsby-starter-morning-dew
-  ```
+
+```bash
+npm install gatsby-starter-morning-dew
+```
+
 2. In your `gatsby-config.js`, add:
-  ```js
-  const config = require('./data/siteConfig')
-  // ...
-  plugins: [
-      {
-        resolve: "gatsby-starter-morning-dew",
-        options: {},
+
+```js
+const config = require('./data/siteConfig')
+// ...
+plugins: [
+    {
+      resolve: "gatsby-starter-morning-dew",
+      options: {},
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: config.siteTitle,
+        short_name: config.siteTitle,
+        start_url: config.pathPrefix,
+        background_color: config.background_color,
+        theme_color: config.theme_color,
+        display: config.display,
+        icon: 'content/images/company-icon.png', // path to your image
       },
-      {
-        resolve: `gatsby-plugin-manifest`,
-        options: {
-          name: config.siteTitle,
-          short_name: config.siteTitle,
-          start_url: config.pathPrefix,
-          background_color: config.background_color,
-          theme_color: config.theme_color,
-          display: config.display,
-          icon: 'content/images/company-icon.png', // path to your image
-        },
-      },
-  ],
-  ```
+    },
+],
+```
+
 3. Add an image called `baymax.png` in `content/images/baymax.png`.
-🐞This is due to a bug.
-😬 Don't worry, this picture will not appear on your website!
+   🐞This is due to a bug.
+   😬 Don't worry, this picture will not appear on your website!
 
 Need more details? Checkout:
-* [maxpou.fr source](https://github.com/maxpou/maxpou.fr): Maxence Poutord's personnal blog;
-* [gatsby-groot source](https://github.com/maxpou/gatsby-groot/): a minimalist blog that use this template!
 
+- [maxpou.fr source](https://github.com/maxpou/maxpou.fr): Maxence Poutord's personnal blog;
+- [gatsby-groot source](https://github.com/maxpou/gatsby-groot/): a minimalist blog that use this template!
 
 ## Commands
 
