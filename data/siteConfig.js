@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'frankpigeon.com',
-  siteDescription: `Frank Pigeon's Blog`,
+  siteTitle: "Frank Pigeon's Blog",
+  siteDescription: `code, linux, music, life`,
   authorName: 'Frank Pigeon Jr.',
   twitterUsername: 'fpigeonjr',
   authorAvatar: 'avatar.jpg', // file in content/images
