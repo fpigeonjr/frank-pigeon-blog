@@ -19,7 +19,7 @@ Redesigned the U.S. Army MedCoE public page using the [United States Web Design 
 
 ![cbet](./cbet.jpg)
 
-Client work redesigning the education site for the College Of Biomedical Equipment Technology with modern look, latest tech stack, and hardening the security of the site. Built with Gatsby, React, custom Google Sheets, and Microsoft Azure.
+Client work redesigning the education site for the College Of Biomedical Equipment Technology with modern look, latest tech stack, and hardening the security of the site. Built with Gatsby, React, custom Google Sheets, and Microsoft Azure. Hosted on Netlify.
 
 [View Live][cbet]
 
