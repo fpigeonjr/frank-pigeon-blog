@@ -1,7 +1,7 @@
 ---
 title: 'Portfolio'
 slug: portfolio
-cover: ./portfolio.jpg
+cover: ./mac.jpg
 date: 2019-09-16
 disqus: false
 type: page

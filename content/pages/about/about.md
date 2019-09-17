@@ -1,7 +1,7 @@
 ---
-title: "About Me"
+title: 'About Me'
 slug: about
-cover: ./family.jpg
+cover: ./space-bg.jpg
 date: 2018-12-11
 disqus: false
 type: page
@@ -17,8 +17,8 @@ I am a U.S. Army veteran and am still serving my country as a Department of Army
 
 My passions including 👨‍💻coding, 🎵music, and all-things 🐧open-source.
 
-I am the owner of [pigeontec][pigeontec], a single person Digital Agency,  and also am co-founder of [sacodersunited][sacoders].
+I am the owner of [pigeontec][pigeontec], a single person Digital Agency, and also am co-founder of [sacodersunited][sacoders].
 
-[kayTwitter]: https://twitter.com/kay_pigeon
+[kaytwitter]: https://twitter.com/kay_pigeon
 [pigeontec]: http://pigeontec.com
 [sacoders]: https://sacodersunited.com
