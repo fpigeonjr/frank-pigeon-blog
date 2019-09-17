@@ -1,11 +1,19 @@
 ---
-title: "Portfolio"
+title: 'Portfolio'
 slug: portfolio
 cover: ./portfolio.jpg
-date: 2018-12-11
+date: 2019-09-16
 disqus: false
 type: page
 ---
+
+## U.S Army Medical Center of Excellence
+
+![MedCoE](./medcoe.jpg)
+
+Redesigned the MedCoE public page using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). The website was the winner an [Web Award for web development](http://www.webaward.org/winner/35327/pigeon-frank-s-jr--verastigui-hector-a-young-stephanie-a-bailey-james-e-cardwell-loretta-b-castillo-paul-engler-timothy-l-gilbert-nancy-j-fox-matthew-d-wins-2019-webaward-for-army-medical-department-center--school-hrcoe.html). Built with .NET and the USWDS.
+
+[View Live][medcoe]
 
 ## Catch of the Day
 
@@ -103,3 +111,4 @@ Check out my project exercises for the Computer Science courses I completed at R
 [highlow-gh]: https://github.com/fpigeon/High_Low
 [fizzbuzz-gh]: https://github.com/fpigeon/CodeUp_Exercises/blob/master/fizzbuzz.php
 [cs-gh]: https://github.com/fpigeon/Regis-University-CS-classwork
+[medcoe]: https://www.cs.amedd.army.mil
