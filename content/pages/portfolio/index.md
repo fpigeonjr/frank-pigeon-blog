@@ -7,13 +7,21 @@ disqus: false
 type: page
 ---
 
-## U.S Army Medical Center of Excellence
+## U.S. Army Medical Center of Excellence
 
 ![MedCoE](./medcoe.jpg)
 
-Redesigned the MedCoE public page using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). The website was the winner an [Web Award for web development](http://www.webaward.org/winner/35327/pigeon-frank-s-jr--verastigui-hector-a-young-stephanie-a-bailey-james-e-cardwell-loretta-b-castillo-paul-engler-timothy-l-gilbert-nancy-j-fox-matthew-d-wins-2019-webaward-for-army-medical-department-center--school-hrcoe.html). Built with .NET and the USWDS.
+Redesigned the U.S. Army MedCoE public page using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). The website was the winner an [Web Award for web development](http://www.webaward.org/winner/35327/pigeon-frank-s-jr--verastigui-hector-a-young-stephanie-a-bailey-james-e-cardwell-loretta-b-castillo-paul-engler-timothy-l-gilbert-nancy-j-fox-matthew-d-wins-2019-webaward-for-army-medical-department-center--school-hrcoe.html). Built with .NET and the USWDS.
 
 [View Live][medcoe]
+
+## College Of Biomedical Equipment Technology
+
+![cbet](./cbet.jpg)
+
+Client work redesigning the education site for the College Of Biomedical Equipment Technology with modern look, latest tech stack, and hardening the security of the site. Built with Gatsby, React, custom Google Sheets, and Microsoft Azure. Hosted on Netlify.
+
+[View Live][cbet]
 
 ## Catch of the Day
 
@@ -100,11 +108,11 @@ Check out my project exercises for the Computer Science courses I completed at R
 [cotd-gh]: https://github.com/fpigeonjr/reactForBeginners
 [cotd]: http://catch-of-the-day.pigeontec.com
 [david-portillo-gh]: https://github.com/davidportillo/tenorwebsite
-[david-portillo-live]: http://davidportillotenor.com/
+[david-portillo-live]: http://davidportillotenor.com
 [sean-dorr-gh]: https://github.com/seandorr/designer-portfolio
 [sean-dorr-live]: http://seandorr.com/
 [community-helpers-gh]: https://github.com/fpigeon/blog.dev
-[community-helpers-live]: http://community-helpers.com/
+[community-helpers-live]: http://community-helpers.com
 [todo-gh]: https://github.com/fpigeon/Web_Todo_List
 [address-book-gh]: https://github.com/fpigeon/Codeup_Web_Exercises/blob/master/public/address_book.php
 [whack-a-mole-gh]: https://github.com/fpigeon/Codeup_Web_Exercises/blob/master/public/whack.html
@@ -112,3 +120,4 @@ Check out my project exercises for the Computer Science courses I completed at R
 [fizzbuzz-gh]: https://github.com/fpigeon/CodeUp_Exercises/blob/master/fizzbuzz.php
 [cs-gh]: https://github.com/fpigeon/Regis-University-CS-classwork
 [medcoe]: https://www.cs.amedd.army.mil
+[cbet]: https://cbet.edu
