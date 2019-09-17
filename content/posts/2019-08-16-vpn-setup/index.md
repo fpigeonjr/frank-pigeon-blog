@@ -48,14 +48,14 @@ I started researching VPN options and found of a few subreddits with people ravi
 
 The ultimate showdown between[TunnelBear vs NordVPN](https://pixelprivacy.com/vpn/reviews/nordvpn-vs-tunnelbear/).
 
-After researching several options I ended up choosing **NordVPN** because:
+After researching several options I ended up choosing [**NordVPN**](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902) because:
 
 - 🇵🇦based in Panama
 - 🌱[tons of servers](https://nordvpn.com/servers/tools/)
 - ☠️[killswitch feature](https://nordvpn.com/features/kill-switch-technique/)
 - 🐧[linux client](https://support.nordvpn.com/Connectivity/Linux/1325531132/Installing-and-using-NordVPN-on-Debian-Ubuntu-and-Linux-Mint.htm)
 - 💪[wireguard support](https://nordvpn.com/blog/nordlynx-protocol-wireguard/)
-- 🎅has an amazing sale going on
+- [🎅has an amazing sale going on](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902)
 
 ## Install
 
@@ -237,3 +237,4 @@ Hope this guide will help you as much as it may help me in the future.
 - [NordVPN Ubuntu Guide](https://support.nordvpn.com/Connectivity/Linux/1325531132/Installing-and-using-NordVPN-on-Debian-Ubuntu-and-Linux-Mint.htm)
 - [NordVPN Server List](https://nordvpn.com/servers/tools/)
 - [IP Leak](https://ipleak.net/)
+- [NordVPN Sign Up](https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902)
