@@ -1,7 +1,7 @@
 ---
-title: "Some of the things I use"
+title: 'Some of the things I use'
 slug: uses
-cover: ./resume.jpg
+cover: ./kb-bg.jpg
 date: 2018-12-11
 disqus: false
 type: page
