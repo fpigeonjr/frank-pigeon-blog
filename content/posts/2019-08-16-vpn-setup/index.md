@@ -138,10 +138,10 @@ Now that you have NordVPN installed, let's test run thru the basics to get conne
    ```
 
    If you want to configure to a specific server, check out their [server list](https://nordvpn.com/servers/tools/).
-   <br/><br/>
-   ![server list](./server-list.png)
 
-3. In my example, server `us3565` was the server recommended for my location. To connect with this specific server run:
+![server list](./server-list.png)
+
+1. In my example, server `us3565` was the server recommended for my location. To connect with this specific server run:
 
    ```bash
 
@@ -149,7 +149,7 @@ Now that you have NordVPN installed, let's test run thru the basics to get conne
 
    ```
 
-4. To confirm that you are connected
+2. To confirm that you are connected
 
    ```bash
 
@@ -157,7 +157,7 @@ Now that you have NordVPN installed, let's test run thru the basics to get conne
 
    ```
 
-5. When you are ready to disconnect
+3. When you are ready to disconnect
 
    ```bash
 
