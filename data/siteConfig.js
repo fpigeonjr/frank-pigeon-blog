@@ -6,7 +6,7 @@ module.exports = {
   authorAvatar: 'avatar.jpg', // file in content/images
   multilangPosts: false, // enable/disable flags in post lists
   authorDescription: `
-  Frank is a 👨‍💻web developer, 🇺🇸US Army veteran, 🎸bass player, father, husband, artisan, owner.
+  Frank is a 👨‍💻web developer, US Army veteran, 🎸bass player, father, husband, and owner of Pigeontec and co-founder of sacodersunited.
   `,
   siteUrl: 'https://frankpigeon.com',
   disqusSiteUrl: 'https://frankpigeon.com',
