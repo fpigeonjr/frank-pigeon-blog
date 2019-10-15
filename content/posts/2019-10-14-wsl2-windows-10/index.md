@@ -69,6 +69,8 @@ You'll want to grab a linux distro from the MS Store. I went with Ubuntu since t
 
 > And when done, select Launch to get started. This will open a Linux terminal and complete the installation. You’ll need to create a user ID and password since we’re setting up a full Linux instance, but once that’s done, boom! You are running Linux on Windows.
 
+![neofetch](./neofetch.png)
+
 ## Resources
 
 [WSL 2 Docs](https://docs.microsoft.com/en-us/windows/wsl/wsl2-index)
