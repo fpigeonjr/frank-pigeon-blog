@@ -2,23 +2,21 @@
 title: 'About Me'
 slug: about
 cover: ./space-bg.jpg
-date: 2018-12-11
+date: 2019-10-20
 disqus: false
 type: page
 ---
 
 ❤️❤️❤️ Thank you for visiting my blog!
 
-My name is Frank Pigeon Jr. I am a father of three boys, husband to my beautiful wife, and a frontend web developer.
+My name is Frank Pigeon Jr. I am a father of three boys, husband to my beautiful wife, and a Front-End Engineer & Web Designer.
 
 I was born in San Antonio, Texas and grew up in the 🌴 beautiful tropical country of Panama.
 
-I am a U.S. Army veteran and am still serving my country as a Department of Army Civilian.
+I am a U.S. Army veteran and am proud to still be serving my country as a Department of Army Civilian.
 
 My passions including 👨‍💻coding, 🎵music, and all-things 🐧open-source.
 
-I am the owner of [pigeontec][pigeontec], a single person Digital Agency, and also am co-founder of [sacodersunited][sacoders].
+I am also a founder of [SA Coders United][sacoders], a digital agency serving small businesses and non-profits in San Antonio, TX.
 
-[kaytwitter]: https://twitter.com/kay_pigeon
-[pigeontec]: http://pigeontec.com
 [sacoders]: https://sacodersunited.com
