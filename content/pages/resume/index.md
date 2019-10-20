@@ -2,7 +2,7 @@
 title: 'Resume'
 slug: resume
 cover: ./coffee-bg.jpg
-date: 2018-12-11
+date: 2019-10-20
 disqus: false
 type: page
 ---
@@ -15,11 +15,19 @@ With over 15 years of IT experience, I'm broadening my horizons into web and mob
 
 ### AUG 2015 - Present
 
-**Frontend Web Developer and Designer, Dept. of Army - San Antonio, TX**
+**Front-End Engineer and Web Designer, Dept. of Army - San Antonio, TX**
 
-- Frontend web design and development for public facing websites and applications
+- Front-end engineer and web designer for public facing websites and applications
 - Led adoption of version control, design guidelines, and modern web practices
-- Frontend design and development using HTML, CSS, JavaScript, React, and the Adobe CC Suite
+- Front-end design and development using HTML, CSS, JavaScript, React, Gatsby, and the Adobe Creative Cloud
+
+### OCT 2017 - Present
+
+**Founder and Front-End Engineer, SA Coders United - San Antonio, TX**
+
+- Founder of [SA Coders United](https://sacodersunited.com/)
+- Digital Agency that provides web design, branding, and web development
+
 
 ### NOV 2014 - AUG 2015
 
@@ -48,7 +56,7 @@ Full stack web development bootcamp using the LAMP stack
 
 ### Regis University
 
-4 Computer Science Leveling Courses
+Computer Science Leveling Courses
 
 ### Park University
 
