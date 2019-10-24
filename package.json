@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-morning-dew",
+  "name": "frank-pigeon-blog",
   "version": "0.0.0-development",
-  "description": "Starter Morning Dew Blog",
+  "description": "Frank Pigeon Blog",
   "keywords": [
     "blog",
     "gatsby",
@@ -9,16 +9,16 @@
     "gatsby-theme",
     "starter"
   ],
-  "homepage": "https://github.com/maxpou/gatsby-starter-morning-dew#readme",
+  "homepage": "https://frankpigeon.com",
   "bugs": {
     "url": "https://github.com/maxpou/gatsby-starter-morning-dew/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxpou/gatsby-starter-morning-dew.git"
+    "url": "git@github.com:fpigeonjr/frank-pigeon-blog.git"
   },
   "license": "MIT",
-  "author": "Maxence Poutord <maxence.poutord@gmail.com>",
+  "author": "Frank Pigeon <frank.pigeonjr@gmail.com>",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
