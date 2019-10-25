@@ -11,7 +11,7 @@ module.exports = {
   siteUrl: 'https://frankpigeon.com/',
   disqusSiteUrl: 'https://frankpigeon.com',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '', // Note: it must *not* have a trailing slash.
+  pathPrefix: '/', // Note: it must *not* have a trailing slash.
   siteCover: 'bg-home4.jpg', // file in content/images
   googleAnalyticsId: 'UA-53325305-1',
   background_color: '#ffffff',
