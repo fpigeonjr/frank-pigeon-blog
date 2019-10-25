@@ -138,7 +138,7 @@ The Windows alternative is called WoX.
 
 > WoX is a launcher for Windows that simply works. It's an alternative to Alfred and Launchy. You can call it Windows omni-eXecutor if you want a long name.
 
-![wox](http://www.wox.one/images/wox_websearch.jpg  )
+![wox](./wox_websearch.jpg  )
 
 [https://github.com/Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
 
