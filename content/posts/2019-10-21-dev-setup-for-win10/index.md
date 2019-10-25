@@ -14,25 +14,25 @@ tags:
 ---
 
 > This is how I setup windows 10 for a modern web development using Windows Subsystem for Linux (WSL2).
-> I am coming from macOS so my goal is to get as close as a setup as I would setup my macBook Pro for web development.
+> I am coming from macOS so my goal is to get as close as my setup on my macBook Pro for web development.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0eqZujVfYU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Overview
 
 1. Windows 10 Setup
-1. Development Setup
+2. Development Setup
    - Package Manager
    - App Launcher
    - WSL 2
    - Visual Studio Code - WSL extension
-1. Moving Files from Windows to Linux
+3. Moving Files from Windows to Linux
 
 ## Windows 10 Setup
 
 ### Windows Updates
 
-At the time of this writing _WSL2_ is only available on the _Insiders Build-Fast_ so you will have to jump to the bleeding edge of the Microsoft updates path.
+At the time of this writing _WSL2_ is only available on the _Insiders Build-Fast_ so you will have to jump to the bleeding edge of Microsoft has to offer.
 
 - Insiders Build - Fast
 - run all updates
@@ -41,9 +41,7 @@ At the time of this writing _WSL2_ is only available on the _Insiders Build-Fast
 
 ### Debloat Script
 
-Next you'll want to run the [Windows10 Debloat Script](https://github.com/Sycnex/Windows10Debloater) which will remove a bunch bloat and make Windows snappier.
-
-<!-- TODO: Add Paul's gif -->
+Next you'll want to run the [Windows10 Debloat Script](https://github.com/Sycnex/Windows10Debloater) which will (as the name implies)remove a bunch bloat and make Windows snappier.
 
 ![win10debloatgif](./Win10DebloatRight.gif)
 
@@ -52,6 +50,8 @@ Next you'll want to run the [Windows10 Debloat Script](https://github.com/Sycnex
 > 👋bye bye Candy Crush
 
 [https://github.com/Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+
+<p style="font-size: smaller">⭐go star the project now</p>
 
 - yes debloat
 - remove all preinstalled
@@ -90,7 +90,7 @@ Get more turbo-boost from your PC by turning on the high performance setting in 
 
 Warning, this takes a while but will make your system even snappier.
 
-- Turn off for Hard Disks.(may take a while)
+- Turn off for Local Disk.(may take a while)
 
 ### Reboot
 
@@ -138,7 +138,7 @@ The Windows alternative is called WoX.
 
 > WoX is a launcher for Windows that simply works. It's an alternative to Alfred and Launchy. You can call it Windows omni-eXecutor if you want a long name.
 
-![wox](https://camo.githubusercontent.com/9db33546d3a905a9ad915e0948d3ba3f47f57b64/687474703a2f2f692e696d6775722e636f6d2f4474784e424a692e676966)
+![wox](http://www.wox.one/images/wox_websearch.jpg  )
 
 [https://github.com/Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
 
@@ -179,9 +179,9 @@ Honorable mentions
 
 Make your termainl sexy with:
 
-`zsh oh-my-zsh zsh-syntax-highlighting, nvm-zsh`
+`zsh, oh-my-zsh, zsh-syntax-highlighting, nvm-zsh`
 
-I could write another blog post on setting up your linux terminal.
+I will be writing another blog post on setting up your linux terminal.
 
 ## Pin Linux mount to File Explorer
 
@@ -203,7 +203,7 @@ I recommend pinning this directory since you will want to move project assets fr
 
 ## Final Thoughts
 
-It's an exciting time to be a developer on Windows. With WSL2, you will get a great dev experience.
+It's an exciting time to be a developer on Windows. With WSL2, you will get a great dev experience and access to very popular client side apps. It's the best of both worlds.
 
 ## Resources
 
