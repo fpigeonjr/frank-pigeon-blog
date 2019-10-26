@@ -21,7 +21,7 @@ tags:
 ## Overview
 
 1. Windows 10 Setup
-2. Development Setup
+2. Web Development Setup
    - Package Manager
    - App Launcher
    - WSL 2
@@ -138,7 +138,7 @@ The Windows alternative is called WoX.
 
 > WoX is a launcher for Windows that simply works. It's an alternative to Alfred and Launchy. You can call it Windows omni-eXecutor if you want a long name.
 
-![wox](./wox_websearch.jpg  )
+![wox](./wox_websearch.jpg)
 
 [https://github.com/Wox-launcher/Wox](https://github.com/Wox-launcher/Wox)
 
@@ -177,17 +177,17 @@ Once I have node setup I add these from npm.
 
 Honorable mentions
 
-Make your termainl sexy with:
+Make your terminal sexy with:
 
 `zsh, oh-my-zsh, zsh-syntax-highlighting, nvm-zsh`
 
 I will be writing another blog post on setting up your linux terminal.
 
-## Pin Linux mount to File Explorer
+## Moving Files from Windows to Linux
 
-A common problem is how to get files from your Windows client into the linux side.
+A common problem is how to get files from your Windows client onto the linux side.
 
-> ie. You completed some awesome images from Photoshop and need to copy over to the linux code base.
+> ie. You worked on some images for your website in Photoshop and need to copy over to the linux code base.
 
 Run the following command from your linux home directory or code directory on the linux terminal and it will open up File Explorer.
 
@@ -199,11 +199,11 @@ explorer.exe .
 
 ![explorer](./pinExplorer.png)
 
-I recommend pinning this directory since you will want to move project assets from client side to linux.
+I recommend pinning this directory since you will want to move project assets from the Windows side to linux.
 
 ## Final Thoughts
 
-It's an exciting time to be a developer on Windows. With WSL2, you will get a great dev experience and access to very popular client side apps. It's the best of both worlds.
+It's an exciting time to be a developer on Windows. With WSL2, you will get the great developer experience of linux and access to very popular Windows ecosystem. It's the best of both worlds.
 
 ## Resources
 
