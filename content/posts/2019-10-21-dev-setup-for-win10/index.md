@@ -122,8 +122,6 @@ Here are some of packages I use all the time:
 
 🔥And you can install them all in one go like this:
 
-<!-- TODO: check syntax -->
-
 ```bash
 
 choco install firefox microsoft-windows-terminal cascadiacode 7zip vlc vscode bitwarden
@@ -200,6 +198,23 @@ explorer.exe .
 ![explorer](./pinExplorer.png)
 
 I recommend pinning this directory since you will want to move project assets from the Windows side to linux.
+
+## Microsoft Updates
+
+Microsoft updates the Insiders Build pretty frequently and with the [win10debloater script](https://github.com/Sycnex/Windows10Debloater) defaults telemetry is turned off (which is probably a good default).
+I wanted to update Windows and it wasn't seeing any updates so here is what I did to allow for updates to be installed based on this [github issue](https://github.com/Sycnex/Windows10Debloater/issues/122).
+
+>Open the Start Menu. Type in `gpedit.msc` and right-click the app from the search results. Choose `Run as Administrator` from the context menu.
+
+> In the `Group Policy Editor`, go to `Computer Configuration/Administrative Templates/Windows Components/Data Collection and Preview Builds`.
+
+> Find the `Allow Telemetry` item and double-click it to edit the policies. Change the setting to `Enabled`. Change the drop-down menu entry to `3 - Full` and click Apply. 
+
+Now you should be able to run Microsoft Updates normally. After the updates run and your mandatory reboot re-enable the telemetry setting .
+
+> Now open the item again and change the Setting to `Not configured` and hit the Save button.
+
+
 
 ## Final Thoughts
 
