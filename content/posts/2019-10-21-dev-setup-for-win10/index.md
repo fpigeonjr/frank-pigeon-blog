@@ -210,7 +210,7 @@ I wanted to update Windows and it wasn't seeing any updates so here is what I di
 
 > Find the `Allow Telemetry` item and double-click it to edit the policies. Change the setting to `Enabled`. Change the drop-down menu entry to `3 - Full` and click Apply. 
 
-Now you should be able to run Microsoft Updates normally. After the updates run and your mandatory reboot re-enable the telemetry setting .
+Now you should be able to run Microsoft Updates normally. After the updates run and your mandatory reboot make sure you re-enable the telemetry setting.
 
 > Now open the item again and change the Setting to `Not configured` and hit the Save button.
 
