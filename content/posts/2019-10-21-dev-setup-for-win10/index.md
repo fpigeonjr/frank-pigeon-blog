@@ -122,8 +122,6 @@ Here are some of packages I use all the time:
 
 🔥And you can install them all in one go like this:
 
-<!-- TODO: check syntax -->
-
 ```bash
 
 choco install firefox microsoft-windows-terminal cascadiacode 7zip vlc vscode bitwarden
@@ -207,8 +205,6 @@ It's an exciting time to be a developer on Windows. With WSL2, you will get the 
 
 ## Resources
 
-[Chris Titus Tech - Setting up the perfect Windows 10 Installation | Faster, Lighter, and Functional](https://youtu.be/nVy4GAtkh7Q)
-
-[MS Docs for WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
-
-[MS Docs for Setting up Node w/ WSL2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
+* [Chris Titus Tech - Setting up the perfect Windows 10 Installation | Faster, Lighter, and Functional](https://youtu.be/nVy4GAtkh7Q)
+* [MS Docs for WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+* [MS Docs for Setting up Node w/ WSL2](https://docs.microsoft.com/en-us/windows/nodejs/setup-on-wsl2)
