@@ -10,7 +10,7 @@ tags:
   - tech-guides
 ---
 
-> tldr; Hackintosh Guide for Catalina on my custom built PC
+> tldr; Hackintosh Guide for Catalina on my 2014 custom built PC
 
 ## Prerequisites
 
@@ -22,6 +22,8 @@ tags:
 
 ![All my parts are finally in, time to get building!](parts.jpg)
 
+Hard to believe this build was from January 2014 and is still running great.
+
 - NZXT Tempest 210 case
 - GIGABYTE GA-Z87X-D3H motherboard
 - Intel Core i5-4670K Haswell 3.4GHz
@@ -30,7 +32,6 @@ tags:
 - Corsair CX500 Power Supply
 - (2)256 SSD and 1TB HD
 
-Hard to believe this build was from January 2014 and is still running great.
 
 > Hackintoshes are very picky on hardware so make sure you choose wisely.<br/> [Tonymacx86 Buyers Guide][buyersguide] is a great resource to choose from guaranteed working builds.
 
