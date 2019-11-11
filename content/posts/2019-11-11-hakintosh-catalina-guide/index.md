@@ -36,12 +36,10 @@ Hard to believe this build was from January 2014 and is still running great.
 
 ## Step One: Make a Catalina Bootable USB (the mac approved way)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ekp8w6pel84
-" target="_blank"><img src="http://img.youtube.com/vi/ekp8w6pel84/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekp8w6pel84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figcaption>
-  Great video explaining the process
+  Great video explaining the process from Mark with Tech
 </figcaption>
 
 1. You will need to have a copy of Catalina from the App store.
