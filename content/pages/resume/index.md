@@ -2,14 +2,14 @@
 title: 'Resume'
 slug: resume
 cover: ./coffee-bg.jpg
-date: 2019-10-20
+date: 2020-05-31
 disqus: false
 type: page
 ---
 
 ## Summary
 
-With over 15 years of IT experience, I'm broadening my horizons into web and mobile development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
+With over 15 years of IT experience, I'm broadening my horizons into web development and design. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
 
 ## Work Experience
 
@@ -17,13 +17,13 @@ With over 15 years of IT experience, I'm broadening my horizons into web and mob
 
 **Front-End Engineer and Web Designer, Dept. of Army - San Antonio, TX**
 
-- Front-end engineer and web designer for public facing websites and applications
-- Led adoption of version control, design guidelines, and modern web practices
-- Front-end design and development using HTML, CSS, JavaScript, React, Gatsby, and the Adobe Creative Cloud
+- Design, develop, and maintain public facing and internal staff websites and applications
+- Lead adoption of version control, design guidelines, and modern web practices
+- Proficient with  HTML, CSS, JavaScript, React, Gatsby, and the Adobe Creative Cloud
 
 ### OCT 2017 - Present
 
-**Founder and Front-End Engineer, SA Coders United - San Antonio, TX**
+**Founder and Front-End Engineer, sacoderunited - San Antonio, TX**
 
 - Founder of [SA Coders United](https://sacodersunited.com/)
 - Digital Agency that provides web design, branding, and web development
@@ -36,11 +36,11 @@ With over 15 years of IT experience, I'm broadening my horizons into web and mob
 - Full stack web development using Linux, Apache, MySQL, and PHP
 - Part of the web development team for the [AM Digital Agency][amwebsite]
 
-### MAY 2014 - Present
+### MAY 2014 - OCT 2017
 
 **Freelance Web Developer, Self - San Antonio, TX**
 
-- Owner of [Pigeontec][pigeontec], a single person Digital Agency
+- Owner of Pigeontec, a single person Digital Agency
 - Full stack web design and development
 
 ### Previous Experience
@@ -66,7 +66,6 @@ B.S., Management, Computer Information Systems
 
 A.A.S., Computer Information Systems
 
-[pigeontec]: http://pigeontec.com
 [community-helpers]: http://community-helpers.com/
 [react-blog]: http://frankpigeon.com
 [david-portillo]: http://davidportillotenor.com/

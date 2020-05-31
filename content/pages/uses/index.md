@@ -2,41 +2,65 @@
 title: 'Some of the things I use'
 slug: uses
 cover: ./kb-bg.jpg
-date: 2019-10-20
+date: 2020-05-31
 disqus: false
 type: page
 ---
 
-## Editor + Terminal
+## Code Editor + Terminal   
 
-![vscode](./vscode.png)
+![moonlight](https://raw.githubusercontent.com/atomiks/moonlight-vscode-theme/master/preview.png)
 
-I have been using [Visual Studio Code][visual studio code] as my code editor for over a three years now. Probably my favorite electron app by far. My favorite color themes are Material Theme, Aylin, and Night Owl. My favorite font is [Cascadia Code][cascadia-code].
+I have been using [Visual Studio Code][visual studio code] as my code editor for over a four years now. I recently switched to the insiders build since it always has some newer features like **settings sync** and **github integrations**. 
 
-![iterm](./iterm.png)
+> ❤️ Probably my favorite electron app by far. 
 
-For my terminal, I have stuck with [iTerm2][iterm2]. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use [oh-my-zshell][oh-my-zsh], [pure-prompt][pure], with the [facebook theme][facebook-iterm]. I played around with Hyper but had some issues so I switched back.
+My favorite color themes are [Moonlight](https://github.com/atomiks/moonlight-vscode-theme), [Night Owl](https://github.com/sdras/night-owl-vscode-theme), and [1984](https://github.com/juanmnl/vs-1984). 
+
+My favorite fonts is [hasklig](https://github.com/i-tu/Hasklig) and the still in beta [recursive](https://github.com/arrowtype/recursive) variable font.
+
+![hasklig](https://raw.githubusercontent.com/i-tu/Hasklig/master/hasklig_example.png)
+
+* hasklig examples
+
+For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use [oh-my-zshell][oh-my-zsh], [pure-prompt][pure], with the [facebook theme][facebook-iterm]. 
+
+On Linux, I am using [Yakuake](https://kde.org/applications/system/org.kde.yakuake) which is the default drop down terminal in KDE.
 
 ## Hardware
 
-![setup](./setup.jpg)
+![custom build](../posts/../../posts/2019-11-11-hakintosh-catalina-guide/parts.jpg)
 
-*UPDATE: This is all changing in the last few week's as I have been working on getting a dev environment on widows10 and WSL2. More to Follow.*
+**2014 Custom Build**
 
-Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. This has been my workhorse ever since I started coding and really enjoy working on mac. It is the closest we can get to linux but still having access to apps like Adobe's Creative Cloud.
+- NZXT Tempest 210 case
+- GIGABYTE GA-Z87X-D3H motherboard
+- Intel Core i5-4670K Haswell 3.4GHz
+- Intel HD Graphics 4600 1536 MB
+- Sapphire Radeon RX580
+- 16GB 1600mhz DDR3 memory
+- Corsair CX500 Power Supply
+- (2)256 SSD and 1TB HD
 
-I recently sold my dual monitor setup and replaced it with a single [Dell UltraSharp U2515H 25-Inch Monitor][dell-monitor] after reading [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
+Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. I have not used it very much since I am on my linux rig most if the time.
+
+
+I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dream and text and images look really sharp.
+
+![lg monitor](https://images-na.ssl-images-amazon.com/images/I/718ICn8vZTL._AC_SL1000_.jpg)
+
+ Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
 
 
 ## Other
 
 I use [Google Keep][keep] for my daily todos and started journaling in a private repo in Github.
 
-I use [Trello][trello] for project management tasks for any given project.
+I use Github for project management tasks for any given project.
 
-My team uses [Slack][slack] for office communications. The goal being that email is for external customers.
+My team uses MS Teams for office communications. 
 
-I use [OpenDNS][opendns] to filter content and improve network speeds.
+I use [Cloudflare for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) to filter content and improve network speeds.
 
 I built a [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads. 
 
@@ -69,4 +93,4 @@ I also setup a [Disney's Circle][circle] which is an amazing device that helps k
 [rpi]: https://www.raspberrypi.org/
 [pihole]: https://pi-hole.net/
 [cascadia-code]: https://github.com/microsoft/cascadia-code
-[nordvpn]: (https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902)
+[nordvpn]: https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902
