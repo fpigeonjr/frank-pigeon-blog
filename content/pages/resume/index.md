@@ -2,7 +2,7 @@
 title: 'Resume'
 slug: resume
 cover: ./coffee-bg.jpg
-date: 2020-05-31
+date: 2020-08-22
 disqus: false
 type: page
 ---
@@ -23,9 +23,9 @@ With over 15 years of IT experience, I'm broadening my horizons into web develop
 
 ### OCT 2017 - Present
 
-**Founder and Front-End Engineer, sacoderunited - San Antonio, TX**
+**Founder and Front-End Engineer, sacodersunited - San Antonio, TX**
 
-- Founder of [SA Coders United](https://sacodersunited.com/)
+- Founder of [sacodersunited](https://sacodersunited.com/)
 - Digital Agency that provides web design, branding, and web development
 
 
