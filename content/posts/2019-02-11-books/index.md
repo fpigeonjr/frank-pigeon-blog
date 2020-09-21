@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-08-22
+date: 2020-09-21
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -16,6 +16,14 @@ tags:
 This week I was thinking that it would be fun to have a place to share my book reviews for the books I have completed this year. But here's the catch: _there will be a limitation of three sentences_.
 
 ## Books I Have Read In 2020
+
+### Essentialism: The Disciplined Pursuit of Less
+
+![Essentialism](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387736173l/19776547.jpg)
+
+McKeown will guide you in the ways to live the life of one known as an Essentialist. It reminds us that only a few things matter and to focus our limited energy on those things that bring the highest contribution. "Less but Better" will be your new anthem in a world that keeps telling us that we can do it all.
+
+[Amazon Link](https://smile.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28)
 
 ### The Road Back to You: An Enneagram Journey to Self-Discovery
 
