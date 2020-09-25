@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-09-21
+date: 2020-09-25
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -17,9 +17,15 @@ This week I was thinking that it would be fun to have a place to share my book r
 
 ## Books I Have Read In 2020
 
+### Mindset: The New Psychology Of Success
+
+![mindset cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504769765l/5494321._SY475_.jpg)
+
+Dweck will convince you to change your fixed mindset to a growth mindset and it will change your outlook on life in an incredible way. Failure doesn’t define you, it’s a problem to be faced, dealt with, and learned from. You will learn from examples in sports, business, education, and from her experience at Colombia on how the growth mindset can change how you deal with everyday challenges in a positive and life changing way.
+
 ### Essentialism: The Disciplined Pursuit of Less
 
-![Essentialism](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387736173l/19776547.jpg)
+![Essentialism cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387736173l/19776547.jpg)
 
 McKeown will guide you in the ways to live the life of one known as an Essentialist. It reminds us that only a few things matter and to focus our limited energy on those things that bring the highest contribution. "Less but Better" will be your new anthem in a world that keeps telling us that we can do it all.
 
