@@ -45,7 +45,7 @@ With over 15 years of IT experience, I'm broadening my horizons into web develop
 
 ### Previous Experience
 
-- IT Project Manager and IT Customer Support for Dept.of Army
+- IT Project Manager and IT Customer Support for Dept. of Army
 - Served as a 74B Computer Operator/Analyst in the U.S. Army
 
 ## Education
@@ -56,7 +56,7 @@ Full stack web development bootcamp using the LAMP stack
 
 ### Regis University
 
-Computer Science Leveling Courses
+Computer Science leveling courses
 
 ### Park University
 

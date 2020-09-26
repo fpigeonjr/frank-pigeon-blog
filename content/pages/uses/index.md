@@ -2,7 +2,7 @@
 title: 'Some of the things I use'
 slug: uses
 cover: ./kb-bg.jpg
-date: 2020-05-31
+date: 2020-09-26
 disqus: false
 type: page
 ---
@@ -42,7 +42,7 @@ On Linux, I am using [Yakuake](https://kde.org/applications/system/org.kde.yakua
 - Corsair CX500 Power Supply
 - (2)256 SSD and 1TB HD
 
-Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. I have not used it very much since I am on my linux rig most if the time.
+Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. I have not used it very much since I am on my Hackintosh most if the time.
 
 
 I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dream and text and images look really sharp.
@@ -54,7 +54,7 @@ I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dre
 
 ## Other
 
-I use [Google Keep][keep] for my daily todos and started journaling in a private repo in Github.
+I use [Apple Notes][keep] for my daily todos and started journaling in a private repo in Github.
 
 I use Github for project management tasks for any given project.
 
@@ -84,7 +84,6 @@ I also setup a [Disney's Circle][circle] which is an amazing device that helps k
 [manifesto]: https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b
 [webcam]: http://a.co/1F7pfgq
 [circle]: http://a.co/cbymmBu
-[keep]: https://keep.google.com/
 [trello]: https://trello.com/
 [slack]: https://slack.com/
 [opendns]: https://www.opendns.com
