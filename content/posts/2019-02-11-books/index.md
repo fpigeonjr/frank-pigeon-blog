@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-09-25
+date: 2020-09-28
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -17,11 +17,22 @@ This week I was thinking that it would be fun to have a place to share my book r
 
 ## Books I Have Read In 2020
 
+### Finish: Give Yourself the Gift of Done
+
+![finish cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497062318l/35397160._SY475_.jpg)
+
+Acuff is a hilarious writer and had me cracking up many times when reading this book. The central theme is how to stop perfectionism from derailing your plan to get your goal finished. Developing tolerance for imperfection is the key factor in turning chronic starters into consistent finishers.
+
+
+[Amazon Link](https://smile.amazon.com/Finish-Give-Yourself-Gift-Done/dp/0525537317/)
+
 ### Mindset: The New Psychology Of Success
 
 ![mindset cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504769765l/5494321._SY475_.jpg)
 
 Dweck will convince you to change your fixed mindset to a growth mindset and it will change your outlook on life in an incredible way. Failure doesn’t define you, it’s a problem to be faced, dealt with, and learned from. You will learn from examples in sports, business, education, and from her experience at Colombia on how the growth mindset can change how you deal with everyday challenges in a positive and life changing way.
+
+[Amazon Link](https://smile.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
 
 ### Essentialism: The Disciplined Pursuit of Less
 
