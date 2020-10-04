@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-09-28
+date: 2020-10-04
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -16,6 +16,14 @@ tags:
 This week I was thinking that it would be fun to have a place to share my book reviews for the books I have completed this year. But here's the catch: _there will be a limitation of three sentences_.
 
 ## Books I Have Read In 2020
+
+### The Four-Hour Work Week
+
+![four hour work week cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503703565l/8205855._SY475_.jpg)
+
+Ferriss presents an exciting and different world view and provides tactical tips to stop running the 9-5 rat race and pursue what really matters. The new rich take mini-retirements while they are young and not wait until later in life to enjoy true freedom. Probably not applicable for everyone, but I found it enjoyable, fun, and mind-expanding to think about living life to its fullest and enjoying the little time we have in this life.
+
+[Amazon Link](https://smile.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/)
 
 ### Finish: Give Yourself the Gift of Done
 
