@@ -17,6 +17,14 @@ This week I was thinking that it would be fun to have a place to share my book r
 
 ## Books I Have Read In 2020
 
+### An Unhurried Life: Following Jesus' Rhythms of Work and Rest
+
+![An Unhurried Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355941472l/16211574.jpg)
+
+This was a such a challenging book for me as someone who races though life trying to get things done at a life's crazy pace. But if we follow Jesus's example we learn to walk with Him and experience life at 3 miles an hour. We can miss God's voice and opportunities to serve others when we rush through life.
+
+[Amazon Link](https://smile.amazon.com/Unhurried-Life-Following-Jesus-Rhythms-ebook/dp/B07ZG7BKKM)
+
 ### The Four-Hour Work Week
 
 ![four hour work week cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503703565l/8205855._SY475_.jpg)
