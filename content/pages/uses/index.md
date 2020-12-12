@@ -31,6 +31,8 @@ On Linux, I am using [Yakuake](https://kde.org/applications/system/org.kde.yakua
 
 ![custom build](../posts/../../posts/2019-11-11-hakintosh-catalina-guide/parts.jpg)
 
+### Desktop
+
 **2014 Custom Build**
 
 - NZXT Tempest 210 case
@@ -42,8 +44,11 @@ On Linux, I am using [Yakuake](https://kde.org/applications/system/org.kde.yakua
 - Corsair CX500 Power Supply
 - (2)256 SSD and 1TB HD
 
+### Laptop
+
 Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. I have not used it very much since I am on my Hackintosh most if the time.
 
+### Monitor
 
 I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dream and text and images look really sharp.
 
@@ -52,21 +57,21 @@ I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dre
  Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
 
 
-## Other
+## Other Honorable Mentions
 
-I use [Apple Notes][keep] for my daily todos and started journaling in a private repo in Github.
+- Apple Notes for my daily todos and started journaling in a private repo in Github.
 
-I use Github for project management tasks for any given project.
+- Github for project management tasks for any given project.
 
-My team uses MS Teams for office communications. 
+- MS Teams for office communications. 
 
-I use [Cloudflare for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) to filter content and improve network speeds.
+- [Cloudflare for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) to filter content and improve network speeds.
 
-I built a [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads. 
+- [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads on my network. 
 
-I am using [Nord VPN][nordvpn] to secure traffic when I am in the wild.
+- [Nord VPN][nordvpn] to secure traffic when I am out in the wild.
 
-I also setup a [Disney's Circle][circle] which is an amazing device that helps keep time limits on our children's internet time.
+- [Disney's Circle][circle] keeps time limits, bed times, and filters on our children's internet.
 
 [visual studio code]: https://code.visualstudio.com/
 [codeup]: http://codeup.com
