@@ -17,6 +17,14 @@ This week I was thinking that it would be fun to have a place to share my book r
 
 ## Books I Have Read In 2020
 
+### Range
+
+![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733.jpg)
+
+Epstein challenges the 10k hours of early specialization is the best path to success theory by showing us examples of late bloomers and people that's careers and interest change over time. That is good news for me as someone who changed specializations many times in my IT career and the research shows that people with range are better equipped for wicked environments. Foxes are better than hedge hodges. 
+
+[Amazon Link](https://smile.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/)
+
 ### An Unhurried Life: Following Jesus' Rhythms of Work and Rest
 
 ![An Unhurried Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355941472l/16211574.jpg)
