@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-10-04
+date: 2020-12-16
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -17,11 +17,19 @@ This week I was thinking that it would be fun to have a place to share my book r
 
 ## Books I Have Read In 2020
 
-### Range
+### The Ruthless Elimination of Hurry
+
+![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550193763l/43982455.jpg)
+
+The _hipster_ edition of **An Unhurried Life** and covers many of the same topics but more human, modern, and fun! This book challenged my presuppositions on what it meant to be a disciple (or apprentice) and offers an escape from the hurry of modern life. Comer will show you the 4 practices of an unhurried life which include: silence and solitude, sabbath, simplicity, and slowing.
+
+[Amazon Link](https://smile.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S/)
+
+### Range: Why Generalist Triumph in a Specialized World
 
 ![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733.jpg)
 
-Epstein challenges the 10k hours of early specialization is the best path to success theory by showing us examples of late bloomers and people that's careers and interest change over time. That is good news for me as someone who changed specializations many times in my IT career and the research shows that people with range are better equipped for wicked environments. Foxes are better than hedge hodges. 
+Epstein challenges the 10k hours of early specialization is the best path to success theory by showing us examples of late bloomers and people that's careers and interest change over time. That is good news for me as someone who changed specializations many times in my IT career and the research shows that people with range are better equipped for wicked environments. Foxes are better than hedge hodges.
 
 [Amazon Link](https://smile.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/)
 
@@ -47,7 +55,6 @@ Ferriss presents an exciting and different world view and provides tactical tips
 
 Acuff is a hilarious writer and had me cracking up many times when reading this book. The central theme is how to stop perfectionism from derailing your plan to get your goal finished. Developing tolerance for imperfection is the key factor in turning chronic starters into consistent finishers.
 
-
 [Amazon Link](https://smile.amazon.com/Finish-Give-Yourself-Gift-Done/dp/0525537317/)
 
 ### Mindset: The New Psychology Of Success
@@ -72,9 +79,7 @@ McKeown will guide you in the ways to live the life of one known as an Essential
 
 As a fan of the Myers Briggs personality test, this book exposes the reader to the ancient personality test known as the Enneagram which encompasses the Nine personality types. I have learned that I am a Number 4 (Romantic) and have learned some strategies on how to work on my weaknesses and understand my motivations and fears. It was fun to learn about the other personality types from the Enneagram and understand what drives them and best approaches to engage them.
 
-[Amazon Link](https://smile.amazon.com/dp/0830846190/ref=cm_sw_em_r_mt_dp_SowqFbNS4WRXW )
-
-
+[Amazon Link](https://smile.amazon.com/dp/0830846190/ref=cm_sw_em_r_mt_dp_SowqFbNS4WRXW)
 
 ### 12 Rules for Life: An Antidote to Chaos
 
@@ -84,10 +89,7 @@ As one of my favorite philosophers and intellectuals of 2019, I am drawn to Jord
 
 [Amazon Link](https://smile.amazon.com/dp/B01FPGY5T0/ref=cm_sw_em_r_mt_dp_5DOqFbFVYQ752)
 
-
-
 ## Books I Have Read In 2019
-
 
 ## Never Split the Difference
 
@@ -120,4 +122,3 @@ Learn how to hack habits so you they work for you and not against you. James sho
 I have been a fan of Cal Newport's work since I read **Deep Work** last year. Cal goes deeper into how to live a simpler, more meaningful life and not letting technology control us. This was a tough one for me to implement since it meant I had to cut my addiction to tech and just look up to really experience life.
 
 [Amazon Link](https://smile.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=sr_1_1)
-
