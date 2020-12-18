@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-10-04
+date: 2020-12-10
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
