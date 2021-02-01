@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2020-12-16
+date: 2021-02-01
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -13,11 +13,53 @@ tags:
   - self-development
 ---
 
-This week I was thinking that it would be fun to have a place to share my book reviews for the books I have completed this year. But here's the catch: _there will be a limitation of three sentences_.
+My goal every year is to read one book a month. Here I will share my book reviews for the books I have completed. But here's the catch: _there will be a limitation of three sentences_.
+
+## Books I Have Read in 2021
+
+### 5. God has a name
+
+![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490888054l/30649233._SX318_.jpg)
+
+I didn't know that God had a name and it was revealed to Moses on Mt. Sinai and is _the most quoted passage in the Bible, by the Bible_. This passage is Exodus 34v4-7 and God's name is Yahweh. Comer breaks it down...line by line.
+
+[Amazon Link](https://smile.amazon.com/God-Name-John-Mark-Comer/dp/0310344204/)
+
+### 4. Eternity is Now in Session
+
+![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527001424l/38942606._SX318_.jpg)
+
+Ortberg writes about the soul's journey consisting of stages of Awakening, Purgation, Illumination, and Union. He describes how many of us view salvation on how we answer questions on a test rather than a real relationship with God. We can experience heaven right now awakening to the reality where in the _"strange world of the Kingdom of God, the frog turns out to be a prince; the ugly duckling is a beautiful swan; the crucified carpenter is the King of kings and the Lord of lords."_
+
+[Amazon Link](https://smile.amazon.com/Eternity-Now-Session-Rediscovery-Salvation/dp/1496431642/)
+
+### 3. Garden City: Work, Rest, and the Art of Being Human
+
+![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442843359l/23403781.jpg)
+
+Comer writes in Garden City about our vocation, rest, and what heaven will look like, or as he calls it the "Garden City". This book challenged the way I thought of heaven as a place to retire/worship to a place of work/rest in the new heaven and a new earth. "_Our work will be exciting, fun, challenging, rewarding, fascinating, energizing, significant, and custom fit for who we are._"
+
+[Amazon Link](https://smile.amazon.com/Garden-City-Work-Being-Human/dp/0310337348/)
+
+### 2. Sabbath: Restoring the Sacred Rhythm of Rest
+
+![cover](https://m.media-amazon.com/images/I/41Z8rs0MvZL.jpg)
+
+We love the Sabbath. Learn to accept the gift God has given us and trust in Him enough to rest your soul. Muller will show you many examples of how to Sabbath and its impact on your soul..._when you start to honor the Sabbath you live the other days differently_.
+
+[Amazon Link](https://smile.amazon.com/Sabbath-Restoring-Sacred-Rhythm-Rest/dp/0553106724/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+
+### 1. The Ruthless Elimination of Hurry
+
+![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550193763l/43982455.jpg)
+
+The first time I listened to it but the second time I read it in physical form and loved it even more. _Probably the most impactful and soul-awakening book for me of 2020._
+
+[Amazon Link](https://smile.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S/)
 
 ## Books I Have Read In 2020
 
-### The Ruthless Elimination of Hurry
+### 9. The Ruthless Elimination of Hurry
 
 ![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550193763l/43982455.jpg)
 
@@ -25,7 +67,7 @@ The _hipster_ edition of **An Unhurried Life** and covers many of the same topic
 
 [Amazon Link](https://smile.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S/)
 
-### Range: Why Generalist Triumph in a Specialized World
+### 8. Range: Why Generalist Triumph in a Specialized World
 
 ![Range Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733.jpg)
 
@@ -33,7 +75,7 @@ Epstein challenges the 10k hours of early specialization is the best path to suc
 
 [Amazon Link](https://smile.amazon.com/Range-Generalists-Triumph-Specialized-World-ebook/dp/B07H1ZYWTM/)
 
-### An Unhurried Life: Following Jesus' Rhythms of Work and Rest
+### 7. An Unhurried Life: Following Jesus' Rhythms of Work and Rest
 
 ![An Unhurried Life cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355941472l/16211574.jpg)
 
@@ -41,7 +83,7 @@ This was a such a challenging book for me as someone who races though life tryin
 
 [Amazon Link](https://smile.amazon.com/Unhurried-Life-Following-Jesus-Rhythms-ebook/dp/B07ZG7BKKM)
 
-### The Four-Hour Work Week
+### 6. The Four-Hour Work Week
 
 ![four hour work week cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503703565l/8205855._SY475_.jpg)
 
@@ -49,7 +91,7 @@ Ferriss presents an exciting and different world view and provides tactical tips
 
 [Amazon Link](https://smile.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/)
 
-### Finish: Give Yourself the Gift of Done
+### 5. Finish: Give Yourself the Gift of Done
 
 ![finish cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497062318l/35397160._SY475_.jpg)
 
@@ -57,7 +99,7 @@ Acuff is a hilarious writer and had me cracking up many times when reading this 
 
 [Amazon Link](https://smile.amazon.com/Finish-Give-Yourself-Gift-Done/dp/0525537317/)
 
-### Mindset: The New Psychology Of Success
+### 4. Mindset: The New Psychology Of Success
 
 ![mindset cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504769765l/5494321._SY475_.jpg)
 
@@ -65,7 +107,7 @@ Dweck will convince you to change your fixed mindset to a growth mindset and it 
 
 [Amazon Link](https://smile.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
 
-### Essentialism: The Disciplined Pursuit of Less
+### 3. Essentialism: The Disciplined Pursuit of Less
 
 ![Essentialism cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387736173l/19776547.jpg)
 
@@ -73,7 +115,7 @@ McKeown will guide you in the ways to live the life of one known as an Essential
 
 [Amazon Link](https://smile.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28)
 
-### The Road Back to You: An Enneagram Journey to Self-Discovery
+### 2. The Road Back to You: An Enneagram Journey to Self-Discovery
 
 ![The Road Back to You](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466942357l/30753888._SY475_.jpg)
 
@@ -81,25 +123,25 @@ As a fan of the Myers Briggs personality test, this book exposes the reader to t
 
 [Amazon Link](https://smile.amazon.com/dp/0830846190/ref=cm_sw_em_r_mt_dp_SowqFbNS4WRXW)
 
-### 12 Rules for Life: An Antidote to Chaos
+### 1. 12 Rules for Life: An Antidote to Chaos
 
 ![12 Rules For Life](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509468449l/33792742._SY475_.jpg)
 
-As one of my favorite philosophers and intellectuals of 2019, I am drawn to Jordan's podcast and Youtube videos. You will learn how to live a life worth living, the rules which to play the game by. You will not want to miss this one.
+As one of my favorite philosophers and intellectuals of 2019, I am drawn to Peterson's podcast and Youtube videos. You will learn how to live a life worth living, the rules which to play the game by. You will not want to miss this one.
 
 [Amazon Link](https://smile.amazon.com/dp/B01FPGY5T0/ref=cm_sw_em_r_mt_dp_5DOqFbFVYQ752)
 
 ## Books I Have Read In 2019
 
-## Never Split the Difference
+### 4. Never Split the Difference
 
 ![Never Split the Difference book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458427910l/29555865._SY475_.jpg)
 
-Learn how to negotiate any situation from an FBI hostage negotiator. Each chapter is filled with gripping stories from Chris's work in the field and gives you tactical advice on the art and science of negotiation. This book breaks down the theory and tools that can help you in negotiating a salary, purchasing a car, or working out some problems at home.
+Learn how to negotiate any situation from an FBI hostage negotiator. Each chapter is filled with gripping stories from Voss's work in the field and gives you tactical advice on the art and science of negotiation. This book breaks down the theory and tools that can help you in negotiating a salary, purchasing a car, or working out some problems at home.
 
 [Amazon Link](https://smile.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/ref=sr_1_1?keywords=chris+voss&qid=1549924450&s=gateway&sr=8-1)
 
-## When Breath Becomes Air
+### 3. When Breath Becomes Air
 
 ![When Breath Becomes Air book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336.jpg)
 
@@ -107,18 +149,18 @@ A neurosurgeon with a brilliant future finds out he has terminal cancer in his t
 
 [Amazon Link](https://smile.amazon.com/When-Breath-Becomes-Paul-Kalanithi-ebook/dp/B00XSSYR50/ref=sr_1_1?ie=UTF8&qid=1551121182&sr=8-1&keywords=when+breath+becomes+air)
 
-## Atomic Habits
+### 2. Atomic Habits
 
 ![Atomic Habits book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg)
 
-Learn how to hack habits so you they work for you and not against you. James shows us how habits are built and how they can be reversed engineered to eliminate them too. Must read if you want to read how to build good habits by learning the habit system complete with lots of practical examples.
+Learn how to hack habits so you they work for you and not against you. Clear shows us how habits are built and how they can be reversed engineered to eliminate them too. Must read if you want to read how to build good habits by learning the habit system complete with lots of practical examples.
 
 [Amazon Link](https://smile.amazon.com/gp/product/B01N5AX61W?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=E6FRP7J9DGN71C3X31H6)
 
-## Digital Minimalism: Choosing a Focused Life in a Noisy World
+### 1. Digital Minimalism: Choosing a Focused Life in a Noisy World
 
 ![Digital Minimalism book cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SY475_.jpg)
 
-I have been a fan of Cal Newport's work since I read **Deep Work** last year. Cal goes deeper into how to live a simpler, more meaningful life and not letting technology control us. This was a tough one for me to implement since it meant I had to cut my addiction to tech and just look up to really experience life.
+I have been a fan of Cal Newport's work since I read **Deep Work** last year. Newport goes deeper into how to live a simpler, more meaningful life and not letting technology control us. This was a tough one for me to implement since it meant I had to cut my addiction to tech and just look up to really experience life.
 
 [Amazon Link](https://smile.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy-ebook/dp/B07DBRBP7G/ref=sr_1_1)
