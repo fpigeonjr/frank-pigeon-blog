@@ -17,13 +17,21 @@ My goal every year is to read one book a month. Here I will share my book review
 
 ## Books I Have Read in 2021
 
+### 6. Loveology: God. Love. Marriage. Sex
+
+![cover](https://images-na.ssl-images-amazon.com/images/I/31XVDQjIDML._SX373_BO1,204,203,200_.jpg)
+
+Comer takes on love, marriage, sex, and what the Bible has to say about this. Wish I had read this before I became a teenager in love and how to pursue love with God's plan in mind. Filled with God's truth, myth-busting, and even a Q/A section.
+
+[Amazon Link](https://smile.amazon.com/dp/0310337267/ref=cm_sw_em_r_mt_dp_G6ER7K18B3669V21X84E)
+
 ### 5. God has a name
 
 ![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490888054l/30649233._SX318_.jpg)
 
 I didn't know that God had a name and it was revealed to Moses on Mt. Sinai and is _the most quoted passage in the Bible, by the Bible_. This passage is Exodus 34v4-7 and God's name is Yahweh. Comer breaks it down...line by line.
 
-[Amazon Link](https://smile.amazon.com/God-Name-John-Mark-Comer/dp/0310344204/)
+[Amazon Link](https://smile.amazon.com/dp/0310344204/ref=cm_sw_em_r_mt_dp_9J3NWZ1QZ4QEAJ2YCWGV)
 
 ### 4. Eternity is Now in Session
 
@@ -31,7 +39,7 @@ I didn't know that God had a name and it was revealed to Moses on Mt. Sinai and 
 
 Ortberg writes about the soul's journey consisting of stages of Awakening, Purgation, Illumination, and Union. He describes how many of us view salvation on how we answer questions on a test rather than a real relationship with God. We can experience heaven right now awakening to the reality where in the _"strange world of the Kingdom of God, the frog turns out to be a prince; the ugly duckling is a beautiful swan; the crucified carpenter is the King of kings and the Lord of lords."_
 
-[Amazon Link](https://smile.amazon.com/Eternity-Now-Session-Rediscovery-Salvation/dp/1496431642/)
+[Amazon Link](https://smile.amazon.com/dp/1496431642/ref=cm_sw_em_r_mt_dp_N0EGTMZ5ACCTSNHB600V?_encoding=UTF8&psc=1)
 
 ### 3. Garden City: Work, Rest, and the Art of Being Human
 
@@ -39,7 +47,7 @@ Ortberg writes about the soul's journey consisting of stages of Awakening, Purga
 
 Comer writes in Garden City about our vocation, rest, and what heaven will look like, or as he calls it the "Garden City". This book challenged the way I thought of heaven as a place to retire/worship to a place of work/rest in the new heaven and a new earth. "_Our work will be exciting, fun, challenging, rewarding, fascinating, energizing, significant, and custom fit for who we are._"
 
-[Amazon Link](https://smile.amazon.com/Garden-City-Work-Being-Human/dp/0310337348/)
+[Amazon Link](https://smile.amazon.com/dp/0310337313/ref=cm_sw_em_r_mt_dp_SPCFSX6TQDBXW1Q3Z0F9)
 
 ### 2. Sabbath: Restoring the Sacred Rhythm of Rest
 
@@ -47,7 +55,7 @@ Comer writes in Garden City about our vocation, rest, and what heaven will look 
 
 We love the Sabbath. Learn to accept the gift God has given us and trust in Him enough to rest your soul. Muller will show you many examples of how to Sabbath and its impact on your soul..._when you start to honor the Sabbath you live the other days differently_.
 
-[Amazon Link](https://smile.amazon.com/Sabbath-Restoring-Sacred-Rhythm-Rest/dp/0553106724/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+[Amazon Link](https://smile.amazon.com/dp/0553106724/ref=cm_sw_em_r_mt_dp_RVKNZE0E57GJMSV9NTHB)
 
 ### 1. The Ruthless Elimination of Hurry
 
@@ -55,7 +63,7 @@ We love the Sabbath. Learn to accept the gift God has given us and trust in Him 
 
 The first time I listened to it but the second time I read it in physical form and loved it even more. _Probably the most impactful and soul-awakening book for me of 2020._
 
-[Amazon Link](https://smile.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S/)
+[Amazon Link](https://smile.amazon.com/dp/0525653090/ref=cm_sw_em_r_mt_dp_E5E24VM10D3S0BN4B8FK)
 
 ## Books I Have Read In 2020
 
@@ -65,7 +73,7 @@ The first time I listened to it but the second time I read it in physical form a
 
 The _hipster_ edition of **An Unhurried Life** and covers many of the same topics but more human, modern, and fun! This book challenged my presuppositions on what it meant to be a disciple (or apprentice) and offers an escape from the hurry of modern life. Comer will show you the 4 practices of an unhurried life which include: silence and solitude, sabbath, simplicity, and slowing.
 
-[Amazon Link](https://smile.amazon.com/Ruthless-Elimination-Hurry-Emotionally-Spiritually-ebook/dp/B07NCJB86S/)
+[Amazon Link](https://smile.amazon.com/dp/0525653090/ref=cm_sw_em_r_mt_dp_E5E24VM10D3S0BN4B8FK)
 
 ### 8. Range: Why Generalist Triumph in a Specialized World
 
