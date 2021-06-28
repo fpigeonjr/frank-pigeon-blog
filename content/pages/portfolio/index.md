@@ -2,18 +2,34 @@
 title: 'Portfolio'
 slug: portfolio
 cover: ./mac.jpg
-date: 2020-09-26
+date: 2021-06-28
 disqus: false
 type: page
 ---
 
+## Borden Institute
+
+![Borden](./borden.png)
+
+Redesigned the Borden Institute website using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). The website was the winner an [Web Award for Best Retail Website](http://www.webaward.org/winner/35795/g6-business-technology-solutions--wins-2020-webaward-for-borden-institute.html). Built using Gatsby, .NET API, and the USWDS.
+
+[View Live][borden]
+
 ## U.S. Army Medical Center of Excellence
 
-![MedCoE](./medcoe.jpg)
+![MedCoE](./medcoe.png)
 
 Redesigned the U.S. Army Medical Center of Excellence (MEDCoE) public page using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). The website was the winner an [Web Award for web development](http://www.webaward.org/winner/35327/pigeon-frank-s-jr--verastigui-hector-a-young-stephanie-a-bailey-james-e-cardwell-loretta-b-castillo-paul-engler-timothy-l-gilbert-nancy-j-fox-matthew-d-wins-2019-webaward-for-army-medical-department-center--school-hrcoe.html). Built using Gatsby, .NET API, and the USWDS.
 
 [View Live][medcoe]
+
+## Threads of Love For Heaven's Sake
+
+![tol](./tol.png)
+
+Client work designing the non-profit website for the Threads of Love For Heaven's Sake San Antonio Chapter. Designed and developed from client's paper brochure to fully functional site with donations. Built with Gatsby, React, custom Google Sheets. Hosted on Netlify.
+
+[View Live][tol]
 
 ## College Of Biomedical Equipment Technology
 
@@ -23,19 +39,11 @@ Client work redesigning the education site for the College Of Biomedical Equipme
 
 [View Live][cbet]
 
-## Catch of the Day
-
-![cotd](./cotd.png)
-
-Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment's notice. Includes a build a menu, an order form, and an inventory management area where authorized users can immediately update product details. Built with React, ES6, React Router 4, and Firebase.
-
-[View Github][cotd-gh]
-
 ## David Portillo Tenor
 
-![david portillo tenor](./portillo.jpg)
+![david portillo tenor](./portillo.png)
 
-Client work for opera singer David Portillo. Web Design and development that includes a calendar of upcoming perfomances, media gallery, acclaims, and biography pages. Built with Jekyll and hosted on Github.
+Client work for opera singer David Portillo. Web Design and development that includes a calendar of upcoming performances, media gallery, acclaims, and biography pages. Rebuilt in 2021 using Strapi backend and Gatbsy on the frontend.
 
 [View Github][david-portillo-gh] <br/>
 [View Live][david-portillo-live]
@@ -48,6 +56,14 @@ Client work for graphic artist and designer Sean Dorr's portfolio website. Web D
 
 [View Github][sean-dorr-gh] <br/>
 [View Live][sean-dorr-live]
+
+## Catch of the Day
+
+![cotd](./cotd.png)
+
+Real-time web application for a fictional trendy seafood market where price and quantity available can change at a moment's notice. Includes a build a menu, an order form, and an inventory management area where authorized users can immediately update product details. Built with React, ES6, React Router 4, and Firebase.
+
+[View Github][cotd-gh]
 
 ## Community Helpers
 
@@ -106,8 +122,7 @@ Check out my project exercises for the Computer Science courses I completed at R
 [View Github][cs-gh]
 
 [cotd-gh]: https://github.com/fpigeonjr/reactForBeginners
-[cotd]: http://catch-of-the-day.pigeontec.com
-[david-portillo-gh]: https://github.com/davidportillo/tenorwebsite
+[david-portillo-gh]: https://github.com/sacodersunited/portillo-tenor
 [david-portillo-live]: http://davidportillotenor.com
 [sean-dorr-gh]: https://github.com/seandorr/designer-portfolio
 [sean-dorr-live]: http://seandorr.com/
@@ -119,5 +134,7 @@ Check out my project exercises for the Computer Science courses I completed at R
 [highlow-gh]: https://github.com/fpigeon/High_Low
 [fizzbuzz-gh]: https://github.com/fpigeon/CodeUp_Exercises/blob/master/fizzbuzz.php
 [cs-gh]: https://github.com/fpigeon/Regis-University-CS-classwork
-[medcoe]: https://www.cs.amedd.army.mil
+[medcoe]: https://medcoe.army.mil
 [cbet]: https://cbet.edu
+[borden]: https://medcoe.army.mil/borden
+[tol]: https://threadsoflovesatx.org
