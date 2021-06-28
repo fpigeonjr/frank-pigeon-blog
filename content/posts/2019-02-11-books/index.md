@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2021-02-01
+date: 2021-06-28
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -16,6 +16,14 @@ tags:
 My goal every year is to read one book a month. Here I will share my book reviews for the books I have completed. But here's the catch: _there will be a limitation of three sentences_.
 
 ## Books I Have Read in 2021
+
+### 7. The Bullet Journal Method: Track the Past, Order the Present, Design the Future
+
+![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528909036l/39071691._SX318_.jpg)
+
+Trying the Bullet Journal Method this year and this has been my guide. Simple, effective, and most importantly offline. Came to up my journal game, stayed for the philosophy.
+
+[Amazon Link](https://smile.amazon.com/Bullet-Journal-Method-Present-Design-ebook/dp/B07B7C4F9C/ref=tmm_kin_swatch_0)
 
 ### 6. Loveology: God. Love. Marriage. Sex
 
