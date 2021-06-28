@@ -2,14 +2,14 @@
 title: 'Resume'
 slug: resume
 cover: ./coffee-bg.jpg
-date: 2020-08-22
+date: 2021-06-28
 disqus: false
 type: page
 ---
 
 ## Summary
 
-With over 15 years of IT experience, I'm broadening my horizons into web development and design. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
+With over 20 years of IT experience, I've broadened my horizons into web development and design. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
 
 ## Work Experience
 
@@ -17,17 +17,16 @@ With over 15 years of IT experience, I'm broadening my horizons into web develop
 
 **Front-End Engineer and Web Designer, Dept. of Army - San Antonio, TX**
 
-- Design, develop, and maintain public facing and internal staff websites and applications
-- Lead adoption of version control, design guidelines, and modern web practices
-- Proficient with  HTML, CSS, JavaScript, React, Gatsby, and the Adobe Creative Cloud
+- Design, develop, and maintain public facing and internal websites and applications
+- Lead adoption of modern web practices like Agile development, version control, design guidelines, and DevOps
+- Proficient with HTML, CSS, JavaScript, React, Gatsby, Microsoft Azure, and the Adobe Creative Cloud
 
 ### OCT 2017 - Present
 
 **Founder and Front-End Engineer, sacodersunited - San Antonio, TX**
 
 - Founder of [sacodersunited](https://sacodersunited.com/)
-- Digital Agency that provides web design, branding, and web development
-
+- Veteran-owned Digital Agency that provides web design, branding, and web development
 
 ### NOV 2014 - AUG 2015
 

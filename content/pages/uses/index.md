@@ -1,52 +1,46 @@
 ---
 title: 'Some of the things I use'
 slug: uses
-cover: ./kb-bg.jpg
-date: 2020-09-26
+cover: ./lukas-blazek-GnvurwJsKaY-unsplash.jpeg
+date: 2021-06-28
 disqus: false
 type: page
 ---
 
-## Code Editor + Terminal   
+## Code Editor + Terminal
 
-![moonlight](https://raw.githubusercontent.com/atomiks/moonlight-vscode-theme/master/preview.png)
+![1984](./1984-unbolded.png)
 
-I have been using [Visual Studio Code][visual studio code] as my code editor for over a four years now. I recently switched to the insiders build since it always has some newer features like **settings sync** and **github integrations**. 
+I have been using [Visual Studio Code][visual studio code] as my code editor for over a four years now. I recently switched to the insiders build since it always has some newer features like **settings sync** and **github integrations**.
 
-> ❤️ Probably my favorite electron app by far. 
+> ❤️ Probably my favorite electron app by far.
 
-My favorite color themes are [Moonlight](https://github.com/atomiks/moonlight-vscode-theme), [Night Owl](https://github.com/sdras/night-owl-vscode-theme), and [1984](https://github.com/juanmnl/vs-1984). 
+My favorite color themes are [1984](https://github.com/juanmnl/vs-1984), [Moonlight](https://github.com/atomiks/moonlight-vscode-theme), and [Night Owl](https://github.com/sdras/night-owl-vscode-theme).
 
-My favorite fonts is [hasklig](https://github.com/i-tu/Hasklig) and the still in beta [recursive](https://github.com/arrowtype/recursive) variable font.
+My favorite fonts are [hasklig](https://github.com/i-tu/Hasklig) and [recursive variable font](https://github.com/arrowtype/recursive).
 
 ![hasklig](https://raw.githubusercontent.com/i-tu/Hasklig/master/hasklig_example.png)
 
-* hasklig examples
+- hasklig examples
 
-For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use [oh-my-zshell][oh-my-zsh], [pure-prompt][pure], with the [facebook theme][facebook-iterm]. 
-
-On Linux, I am using [Yakuake](https://kde.org/applications/system/org.kde.yakuake) which is the default drop down terminal in KDE.
+For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use [oh-my-zshell][oh-my-zsh], [pure-prompt][pure], with the [facebook theme][facebook-iterm].
 
 ## Hardware
 
-![custom build](../posts/../../posts/2019-11-11-hakintosh-catalina-guide/parts.jpg)
+![macMini](./mac-mini-202011-gallery-3.jpeg)
 
 ### Desktop
 
-**2014 Custom Build**
+**[2020 MacMini](https://smile.amazon.com/2020-Apple-Mini-256GB-Storage/dp/B08N5PHB83/ref=sr_1_5?dchild=1&keywords=macmini&qid=1624923395&sr=8-5)**
 
-- NZXT Tempest 210 case
-- GIGABYTE GA-Z87X-D3H motherboard
-- Intel Core i5-4670K Haswell 3.4GHz
-- Intel HD Graphics 4600 1536 MB
-- Sapphire Radeon RX580
-- 16GB 1600mhz DDR3 memory
-- Corsair CX500 Power Supply
-- (2)256 SSD and 1TB HD
+- Apple M1 chip with 8‑core CPU, 8‑core GPU, and 16‑core Neural Engine
+- 8GB unified memory
+- 256GB SSD storage
+- Gigabit Ethernet
 
 ### Laptop
 
-Bought my first macintosh due to it being a requirement for my [coding bootcamp][codeup]. It is a [2012 15" retina macbook pro][mac] sitting ontop of a [Rain Laptop Stand][rain-stand]. I have not used it very much since I am on my Hackintosh most if the time.
+Using an iPad when I am on the go. Combine with a [Smart Keyboard](https://smile.amazon.com/dp/B08635GZ8H/ref=cm_sw_em_r_mt_dp_696T9DXND4JG7KW0HDBZ) when thing get serious.
 
 ### Monitor
 
@@ -54,20 +48,19 @@ I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dre
 
 ![lg monitor](https://images-na.ssl-images-amazon.com/images/I/718ICn8vZTL._AC_SL1000_.jpg)
 
- Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
-
+Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
 
 ## Other Honorable Mentions
 
-- Apple Notes for my daily todos and started journaling in a private repo in Github.
+- Bullet Journal in a crappy notebook.
 
 - Github for project management tasks for any given project.
 
-- MS Teams for office communications. 
+- MS Teams for office communications.
 
 - [Cloudflare for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) to filter content and improve network speeds.
 
-- [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads on my network. 
+- [Raspberry Pi][rpi] using [pi-hole][pihole] to filter ads on my network.
 
 - [Nord VPN][nordvpn] to secure traffic when I am out in the wild.
 
