@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2021-06-28
+date: 2021-09-18
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -17,13 +17,46 @@ My goal every year is to read one book a month. Here I will share my book review
 
 ## Books I Have Read in 2021
 
-### 7. The Bullet Journal Method: Track the Past, Order the Present, Design the Future
+## 11. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+
+![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421842784i/36072.jpg)
+
+Can't believe it took me so long to get to this gem of a book. The principles and ideas in this book are timeless and I am excited to start implementing them in my life and family. This is one I will probably come back to and read over and over again.
+
+[Amazon Link](https://smile.amazon.com/dp/1982137134/ref=cm_sw_em_r_mt_dp_NHZ9YQS6QW383FXX1K76)
+
+### 10. To Sell is Human: The Surprising Truth About Moving Others
+
+![cover](https://images-na.ssl-images-amazon.com/images/I/419N0I0w36L._SX329_BO1,204,203,200_.jpg)
+
+Turns out we all work in sales (non-sale selling). We move people with the new ABCs (Attunement, Buoyancy and Clarity). Pink updates the reader with the new skills needed for the modern era.
+
+[Amazon Link](https://smile.amazon.com/dp/1594487154/ref=cm_sw_em_r_mt_dp_QNZ2Q6ZCR9S31W7BE0H7)
+
+### 9. The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+
+![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1418767178i/22318578.jpg)
+
+It started by cleaning the garage this summer and it lead to organizing many other rooms in the home. Kondo's methods and practices have made a difference in my efforts to minimize, reduce clutter, and make a happier home.
+
+[Amazon Link](https://smile.amazon.com/dp/1607747308/ref=cm_sw_em_r_mt_dp_AJNCBHT5H2BZ5WFXBMPC)
+
+### 8. The Bullet Journal Method: Track the Past, Order the Present, Design the Future
 
 ![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528909036l/39071691._SX318_.jpg)
 
-Trying the Bullet Journal Method this year and this has been my guide. Simple, effective, and most importantly offline. Came to up my journal game, stayed for the philosophy.
+Trying the Bullet Journal Method this year and this has been my guide. Simple, effective, and most importantly offline. Came to level up my journal game, stayed for the philosophy.
 
 [Amazon Link](https://smile.amazon.com/Bullet-Journal-Method-Present-Design-ebook/dp/B07B7C4F9C/ref=tmm_kin_swatch_0)
+
+### 7. The Life You've Always Wanted: Spiritual Disciplines for Ordinary People
+
+![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1384259539i/161419.jpg)
+
+Ortberg presents us with the spiritual practices along with some life stories that help illuminate the practices.
+The spiritual practices covered are celebration, slowing, prayer, servanthood, confession, receiving guidance from the Holy Spirit, secrecy, and reflecting on the Scriptures. My favorites were celebration, slowness, prayer but all work together to form a game plan of morphing by creating a rule of life to guide me in this life and create a rhythm for living. It's morphing time!
+
+[Amazon Link](https://smile.amazon.com/dp/0310212146/ref=cm_sw_em_r_mt_dp_DWKZS4EA9KYBF5RRM620)
 
 ### 6. Loveology: God. Love. Marriage. Sex
 
