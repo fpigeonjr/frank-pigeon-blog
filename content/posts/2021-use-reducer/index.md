@@ -10,13 +10,11 @@ tags:
   - hooks
 ---
 
-> Teach everyone to spread, they'll spead for a day. Teach everyone to useReducer and they'll spread for life.
+> Teach everyone to spread, they'll spread for a day. Teach everyone to useReducer and they'll spread for life.
 >
-> Eve Porcello author of Learning React
+> --Eve Porcello author of Learning React
 
 ![cover](https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SX379_BO1,204,203,200_.jpg)
-
-<!-- image of book -->
 
 In Chapter 7 of **Learning React**, I came across a great example for useReducer, one of React's new hooks.
 
@@ -62,7 +60,7 @@ function User() {
 }
 ```
 
-The mistake on the button onClick() method is that by using `setUser({admin: true})` is that this will overwrite the object and you'll lose the id, firstName, lastName, city, state, and email key/value pairs. It will only write the admin key/value pair. Not what we want.
+The mistake on the button onClick() method is that by using `setUser({admin: true})` this will overwrite the object and you'll lose the id, firstName, lastName, city, state, and email key/value pairs. It will only write the admin key/value pair. _Not what we want_.
 
 ![devtools](./devtools.png)
 
@@ -78,6 +76,7 @@ To fix this, we can instead spread the array first and then add the key/value we
 >
   Make Admin
 </button>
+...
 ```
 
 ## Here is the new paradigm.
@@ -93,6 +92,7 @@ function User() {
     }),
     firstUser
   )
+  ...
 ```
 
 and return to the button to the initial setup.
@@ -105,8 +105,11 @@ and return to the button to the initial setup.
 >
   Make Admin
 </button>
+...
 ```
+
+![fix](./fix.png)
 
 ## Final Thoughts
 
-I like this new pattern and it makes it less likely to make errors when you come back at look at your code in the future. Remember to be kind to your future self. If you haven't picked up Eve Porcello's book **Learning React**, do yourself a favor and pick it up today.
+I like this new React pattern and it makes it less likely to make errors when you come back at look at your code in the future. Remember to be kind to your future self. If you haven't picked up Eve Porcello's book **Learning React**, do yourself a favor and pick it up today.
