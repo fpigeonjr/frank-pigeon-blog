@@ -2,10 +2,18 @@
 title: 'Portfolio'
 slug: portfolio
 cover: ./mac.jpg
-date: 2021-06-28
+date: 2021-08-19
 disqus: false
 type: page
 ---
+
+## AMEDD Center of History & Heritage
+
+![amedd center of history and ](./achh.png)
+
+Redesigned the AMEDD Center of History & Heritage website using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). Built using Gatsby, .NET API, search.gov, and the USWDS.
+
+[View Live][achh]
 
 ## Borden Institute
 
@@ -137,4 +145,5 @@ Check out my project exercises for the Computer Science courses I completed at R
 [medcoe]: https://medcoe.army.mil
 [cbet]: https://cbet.edu
 [borden]: https://medcoe.army.mil/borden
+[achh]: https://achh.army.mil/
 [tol]: https://threadsoflovesatx.org
