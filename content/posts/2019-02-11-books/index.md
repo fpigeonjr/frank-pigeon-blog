@@ -17,7 +17,7 @@ My goal every year is to read one book a month. Here I will share my book review
 
 ## Books I Have Read in 2021
 
-## 11. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+### 11. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
 ![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421842784i/36072.jpg)
 
