@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2021-09-18
+date: 2021-09-29
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -16,6 +16,14 @@ tags:
 My goal every year is to read one book a month. Here I will share my book reviews for the books I have completed. But here's the catch: _there will be a limitation of three sentences_.
 
 ## Books I Have Read in 2021
+
+### 12. Learning React: Modern Patterns for Developing React Apps
+
+![cover](https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SX379_BO1,204,203,200_.jpg)
+
+Great introduction to React, ES6, and includes lots of Hooks and design patterns. Make sure and pair up with the [github repo](https://github.com/MoonHighway/learning-react) since some projects get tricky. Looking forward to applying the knowledge gained in my React projects.
+
+[Amazon Link](https://smile.amazon.com/dp/1492051721/ref=cm_sw_em_r_mt_dp_38MRGA434B0BQMM5J0Z5)
 
 ### 11. The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
 
