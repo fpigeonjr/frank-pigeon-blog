@@ -1,7 +1,7 @@
 ---
 title: Book Reviews
 slug: books
-date: 2021-09-29
+date: 2021-10-19
 language: en
 imageTw: ./books-tw.png
 imageFb: ./books-fb.png
@@ -16,6 +16,14 @@ tags:
 My goal every year is to read one book a month. Here I will share my book reviews for the books I have completed. But here's the catch: _there will be a limitation of three sentences_.
 
 ## Books I Have Read in 2021
+
+### 13. Live No Lies: Recognize and Resist the Three Enemies That Sabotage Your Peace
+
+![cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617073608i/56546732.jpg)
+
+JMC hits us with another masterpiece this time taking on the three enemies of our soul: the devil, the flesh, and the world. We learn strategies and practices on how to combat the trifecta of evil. Know your enemy!
+
+[Amazon Link](https://www.amazon.com/dp/0525653120/ref=cm_sw_em_r_mt_dp_AZN3DGZQQDXQ88HDVP31)
 
 ### 12. Learning React: Modern Patterns for Developing React Apps
 
