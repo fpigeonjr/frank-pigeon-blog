@@ -2,24 +2,20 @@
 title: 'Resume'
 slug: resume
 cover: ./coffee-bg.jpg
-date: 2021-08-20
+date: 2021-11-17
 disqus: false
 type: page
 ---
 
 ## Summary
 
-With over 20 years of public sector service, I've broadened my horizons into web development and design. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
+With over 20 years of public sector service, I've broadened my horizons into web design and development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
 
 ## Work Experience
 
-### AUG 2015 - Present
+### OCT 2021 - Present
 
-**Front-End Engineer, U.S. Army Medical Center of Excellence - San Antonio, TX**
-
-- Design, develop, and maintain public facing and internal websites and applications
-- Lead adoption of modern web practices, version control, design guidelines, agile methodologies, and continuous integration/continuous deployment
-- Proficient with HTML, CSS, JavaScript, React, Gatsby, Bootstrap, USWDS, and the Adobe Creative Cloud
+**Front-End Developer, 10x - Technology Transformation Services (GSA) team @ [Flexion](https://flexion.us)**
 
 ### OCT 2017 - Present
 
@@ -27,6 +23,14 @@ With over 20 years of public sector service, I've broadened my horizons into web
 
 - Co-Founder of [sacodersunited](https://sacodersunited.com/)
 - Veteran-owned Digital Agency that provides web design, branding, and web development
+
+### AUG 2015 - OCT 2021
+
+**Front-End Engineer, U.S. Army Medical Center of Excellence - San Antonio, TX**
+
+- Design, develop, and maintain public facing and internal websites and applications
+- Lead adoption of modern web practices, version control, design guidelines, agile methodologies, and continuous integration/continuous deployment
+- Proficient with HTML, CSS, JavaScript, React, Gatsby, Bootstrap, USWDS, and the Adobe Creative Cloud
 
 ### NOV 2014 - AUG 2015
 
