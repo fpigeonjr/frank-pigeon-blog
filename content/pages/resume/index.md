@@ -15,7 +15,7 @@ With over 20 years of public sector service, I've broadened my horizons into web
 
 ### OCT 2021 - Present
 
-**Front-End Developer, 10x - Technology Transformation Services (GSA) team @ [Flexion](https://flexion.us)**
+**Front-End Developer/Designer, 10x - Technology Transformation Services (GSA) team @ [Flexion](https://flexion.us)**
 
 ### OCT 2017 - Present
 
@@ -48,7 +48,7 @@ With over 20 years of public sector service, I've broadened my horizons into web
 
 ### Previous Experience
 
-- IT Project Manager and IT Customer Support for Dept. of Army
+- IT Project Manager and IT Customer Support for MEDCoE
 - Served as a 74B Computer Operator/Analyst in the U.S. Army
 
 ## Education
