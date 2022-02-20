@@ -46,7 +46,6 @@ These are some courses I have enjoyed:
 - [Academind](https://www.youtube.com/c/Academind) (Youtube)
 - [Vue Mastery](https://www.youtube.com/c/VueMastery) (Youtube)
 - [Program With Eric](https://www.youtube.com/c/ProgramWithErik) (Youtube)
-- [Learn Vue](https://www.youtube.com/channel/UCgmcPHueYRarnCkihtNIRlw) (Youtube)
 
 Other recommendations from [Made With Vue](https://madewithvuejs.com/blog/learn-vue-3-best-resources).
 
