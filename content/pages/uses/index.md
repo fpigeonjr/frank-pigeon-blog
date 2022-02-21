@@ -2,7 +2,7 @@
 title: 'Some of the things I use'
 slug: uses
 cover: ./lukas-blazek-GnvurwJsKaY-unsplash.jpeg
-date: 2021-06-28
+date: 2022-02-19
 disqus: false
 type: page
 ---
@@ -11,7 +11,7 @@ type: page
 
 ![1984](./1984-unbolded.png)
 
-I have been using [Visual Studio Code][visual studio code] as my code editor for over a four years now. I recently switched to the insiders build since it always has some newer features like **settings sync** and **github integrations**.
+I have been using [Visual Studio Code][visual studio code] as my code editor for over a many years now. Love the **settings sync** and **github integrations** and extensions ecosystem.
 
 > ❤️ Probably my favorite electron app by far.
 
@@ -19,9 +19,9 @@ My favorite color themes are [1984](https://github.com/juanmnl/vs-1984), [Moonli
 
 My favorite fonts are [hasklig](https://github.com/i-tu/Hasklig) and [recursive variable font](https://github.com/arrowtype/recursive).
 
-![hasklig](https://raw.githubusercontent.com/i-tu/Hasklig/master/hasklig_example.png)
+![recursive font](https://github.com/arrowtype/recursive/raw/main/specimens/repo-artwork/recursive-repo-artwork.png)
 
-- hasklig examples
+- recursive examples
 
 For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable, customizable, and just works. I go fullscreen with a slight transparency. I also use [oh-my-zshell][oh-my-zsh], [pure-prompt][pure], with the [facebook theme][facebook-iterm].
 
@@ -40,7 +40,11 @@ For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable,
 
 ### Laptop
 
-Using an iPad when I am on the go. Combine with a [Smart Keyboard](https://smile.amazon.com/dp/B08635GZ8H/ref=cm_sw_em_r_mt_dp_696T9DXND4JG7KW0HDBZ) when thing get serious.
+**16" MacBook Pro**
+
+- 2.3 GHz 8-Core Intel Core i9
+- 16 GB 2667 MHz DDR4
+- AMD Radeon Pro 5500M 4 GB
 
 ### Monitor
 
@@ -52,11 +56,11 @@ Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Co
 
 ## Other Honorable Mentions
 
-- Bullet Journal in a crappy notebook.
+- [Bullet Journal](https://bulletjournal.com/) in a crappy notebook.
 
 - Github for project management tasks for any given project.
 
-- MS Teams for office communications.
+- Slack for office communications.
 
 - [Cloudflare for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) to filter content and improve network speeds.
 

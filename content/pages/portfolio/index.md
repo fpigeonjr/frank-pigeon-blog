@@ -81,54 +81,6 @@ Web application that connects seniors that need work done around their home and 
 
 [View Github][community-helpers-gh] <br/>
 
-## Todo List
-
-![todo list](./todo.jpg)
-
-The application was built using PHP, MySQL, HTML and CSS and it allows for adding new items, removing completed items, and uploading a todo list.
-
-[View Github][todo-gh]
-
-## Address Book
-
-![address book](./address.jpg)
-
-The application was built using PHP, MySQL, HTML and CSS and it allows for adding new addresses, removing completed addresses, and uploading an exisiting address book.
-
-[View Github][address-book-gh]
-
-## Whack-A-Mole
-
-![whack a mole](./whack_a_mole.jpg)
-
-First-person video game based on the classic whack-a-mole game. The game randomly has moles pop out of holes and the object of the game is to hit the moles and have them go back in their hole. The application features the ability to keep score, maintain a high-score, and a countdown timer. Written in PHP, JavaScript, and jQuery.
-
-[View Github][whack-a-mole-gh]
-
-## High Low game
-
-![code](./code.jpg)
-
-The game picks a random number between 1 and 100. It prompts the user to take a guess and outputs higher, lower, or good guess. Written in PHP.
-
-[View Github][highlow-gh]
-
-## Fizz Buzz
-
-![code](./code.jpg)
-
-The application prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”. Written in PHP.
-
-[View Github][fizzbuzz-gh]
-
-## CS Classwork
-
-![Regis CS Work](./regis.jpg)
-
-Check out my project exercises for the Computer Science courses I completed at Regis University. Written in C++.
-
-[View Github][cs-gh]
-
 [cotd-gh]: https://github.com/fpigeonjr/reactForBeginners
 [david-portillo-gh]: https://github.com/sacodersunited/portillo-tenor
 [david-portillo-live]: http://davidportillotenor.com
@@ -136,12 +88,6 @@ Check out my project exercises for the Computer Science courses I completed at R
 [sean-dorr-live]: http://seandorr.com/
 [community-helpers-gh]: https://github.com/fpigeon/blog.dev
 [community-helpers-live]: http://community-helpers.com
-[todo-gh]: https://github.com/fpigeon/Web_Todo_List
-[address-book-gh]: https://github.com/fpigeon/Codeup_Web_Exercises/blob/master/public/address_book.php
-[whack-a-mole-gh]: https://github.com/fpigeon/Codeup_Web_Exercises/blob/master/public/whack.html
-[highlow-gh]: https://github.com/fpigeon/High_Low
-[fizzbuzz-gh]: https://github.com/fpigeon/CodeUp_Exercises/blob/master/fizzbuzz.php
-[cs-gh]: https://github.com/fpigeon/Regis-University-CS-classwork
 [medcoe]: https://medcoe.army.mil
 [cbet]: https://cbet.edu
 [borden]: https://medcoe.army.mil/borden
