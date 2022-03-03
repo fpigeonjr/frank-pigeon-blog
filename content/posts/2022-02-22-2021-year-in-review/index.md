@@ -24,15 +24,15 @@ Here are some of my favorites moments from 2021.
 
 <!-- TODO: Add an image -->
 
-:tada: I joined the Flexion team. I started interviewing with them in October and the interview process was a great experience. My recruiter was awesome and coached me the whole way through the entire process.
+I joined the Flexion team. I started interviewing with them in October and the interview process was a great experience. My recruiter was awesome and coached me through the entire process.
 
 This is my second break in service from the Department of Army and it was everything I wanted:
 
-- remote-always
-- flexible hours
 - agile mindset
 - core values align with mine
 - challenging and engaging work
+- remote-always
+- life work balance
 
 I know I will be learning a lot and growing in my craft.
 
@@ -77,21 +77,21 @@ Carlos is learning violin and playing guitar.
 
 So we have had an opportunity to jam as a family and every time we do it its so much fun.
 
-This is a dream come true for me. #proudpapa
+This is a dream come true for me. Glad that I can pass down my love of music to the next generation. #proudpapa
 
 ### ⚽ Concacaf Gold Cup Group D Doubleheader Qatar v Panama and Honduras vs Grenada
 
 <!-- TODO: Add an image -->
 
-We went as a family to see Panama national team play in Houston. We made a family trip to see them and had a blast. They lost unfortunately but its always fun to be at the match.
+We went as a family to see the 🇵🇦 Panama national team play in Houston. We made a family trip to see them and had a blast. They lost unfortunately but its always fun to be at the match.
 
 ### ⚽ Soccer Tournament in Beaumont Texas
 
 <!-- TODO: Add an image -->
 
-We had a great coach this season and they went all the way to the finals. It was held in Beaumont, Texas and we travelled there as a family and stayed for the weekend.
+My son's soccer coach was great this season and they the team went all the way to the finals. It was held in Beaumont, Texas and we travelled there as a family and stayed for the weekend.
 
-> No we didn't eat any alligator burgers.
+> 🐊 No we didn't eat any alligator burgers.
 
 ### 🤩 Chris Tomlin concert
 
@@ -99,7 +99,7 @@ We had a great coach this season and they went all the way to the finals. It was
 
 We went to see Chris Tomlin in Austin in the Spring. This was our first big outing since covid so it was fun to get out of the house and go to see live music.
 
-### 🚗 South Padre visit
+### 🌞 South Padre visit
 
 <!-- TODO: Add an image -->
 
@@ -107,7 +107,7 @@ In the summer, we stayed a few days at South Padre. The **Spasmatics**, a local 
 
 We enjoyed the sun, the beach, and exploring the island. Hope we can make it back again this summer and not see any jellyfish.
 
-> no jellyfish please
+> 🦑 no jellyfish please
 
 ### 🥶 Snowpocalypse
 
@@ -125,6 +125,6 @@ It was not a fun week but we survived.
 
 <!-- TODO: Add an image -->
 
-2021 was a good year for us and I know God even has more blessings in store for us in 2022.
+2021 was a good year for me and my family and I know God even has more blessings in store for us in 2022.
 
-> More than anything we could ever imagine.
+> 🥳 More than anything we could ever imagine.
