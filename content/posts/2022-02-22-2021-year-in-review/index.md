@@ -1,7 +1,7 @@
 ---
 title: 2021 Year In Review
 slug: 2021-year-in-review
-date: 2022-02-22
+date: 2022-03-02
 language: en
 imageTw: ./2021-year-in-review-tw.png
 imageFb: ./2021-year-in-review-fb.png
@@ -20,7 +20,7 @@ Hard to believe how lucky I am and how God has blessed me and my family.
 
 Here are some of my favorites moments from 2021.
 
-### Started a new job
+### 💼 Started a new job
 
 <!-- TODO: Add an image -->
 
@@ -36,7 +36,7 @@ This is my second break in service from the Department of Army and it was everyt
 
 I know I will be learning a lot and growing in my craft.
 
-### California trip
+### 🚗 California trip
 
 <!-- TODO: Add an image -->
 
@@ -47,7 +47,7 @@ In December we visited my sister-in-law in California and we had a great family 
 - See the extended Portillo family
 - Fried turkey
 
-### Canyon Lake
+### 🎣 Canyon Lake
 
 <!-- TODO: Add an image -->
 
@@ -55,7 +55,7 @@ We stayed at Canyon Lake in the Spring and it was so relaxing being there.
 
 Canyon Lake is a remote beautiful camp ground near the lake and is great place to get away from the city and enjoy some fresh air and spend time in the great outdoors. Hope to go back again soon.
 
-### Oreo
+### 🐶 Oreo
 
 <!-- TODO: Add an image -->
 
@@ -65,7 +65,7 @@ Unfortunately, my wife's allergies to pets forced us to find her a new home.
 
 Thanks for the happy memories Oreo.
 
-### Jamming as a family
+### 🎸 Jamming as a family
 
 <!-- TODO: Add an image -->
 
@@ -79,13 +79,13 @@ So we have had an opportunity to jam as a family and every time we do it its so 
 
 This is a dream come true for me. #proudpapa
 
-### Concacaf Gold Cup Group D Doubleheader Qatar v Panama and Honduras vs Grenada
+### ⚽ Concacaf Gold Cup Group D Doubleheader Qatar v Panama and Honduras vs Grenada
 
 <!-- TODO: Add an image -->
 
 We went as a family to see Panama national team play in Houston. We made a family trip to see them and had a blast. They lost unfortunately but its always fun to be at the match.
 
-### Soccer Tournament in Beaumont Texas
+### ⚽ Soccer Tournament in Beaumont Texas
 
 <!-- TODO: Add an image -->
 
@@ -93,13 +93,13 @@ We had a great coach this season and they went all the way to the finals. It was
 
 > No we didn't eat any alligator burgers.
 
-### Chris Tomlin concert
+### 🤩 Chris Tomlin concert
 
 <!-- TODO: Add an image -->
 
 We went to see Chris Tomlin in Austin in the Spring. This was our first big outing since covid so it was fun to get out of the house and go to see live music.
 
-### South Padre visit
+### 🚗 South Padre visit
 
 <!-- TODO: Add an image -->
 
@@ -109,7 +109,7 @@ We enjoyed the sun, the beach, and exploring the island. Hope we can make it bac
 
 > no jellyfish please
 
-### Snowpocalypse
+### 🥶 Snowpocalypse
 
 <!-- TODO: Add an image -->
 
@@ -121,7 +121,7 @@ We live near a fire station so we didn't loose power. We were one of the lucky o
 
 It was not a fun week but we survived.
 
-## Looking Forward To 2022
+## 🎉 Looking Forward To 2022
 
 <!-- TODO: Add an image -->
 
