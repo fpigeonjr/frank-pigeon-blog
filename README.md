@@ -1,4 +1,4 @@
-gs[![Netlify Status](https://api.netlify.com/api/v1/badges/704c3fe0-64de-4c17-ba42-57fb75518716/deploy-status)](https://app.netlify.com/sites/mystifying-edison-d53910/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/704c3fe0-64de-4c17-ba42-57fb75518716/deploy-status)](https://app.netlify.com/sites/mystifying-edison-d53910/deploys)
 
 # Netlify Deployment Server
 
