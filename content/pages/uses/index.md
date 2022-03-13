@@ -2,18 +2,20 @@
 title: 'Some of the things I use'
 slug: uses
 cover: ./lukas-blazek-GnvurwJsKaY-unsplash.jpeg
-date: 2022-02-19
+date: 2022-03-13
 disqus: false
 type: page
 ---
 
 ## Code Editor + Terminal
 
-![1984](./1984-unbolded.png)
+![1984](https://i.imgur.com/8LOkWS9.png)
 
-I have been using [Visual Studio Code][visual studio code] as my code editor for over a many years now. Love the **settings sync** and **github integrations** and extensions ecosystem.
+I have been using [Visual Studio Code][visual studio code] as my code editor for many years now. Love the **settings sync**, **github integrations**, and extensions ecosystem.
 
 > ❤️ Probably my favorite electron app by far.
+
+Here are my [vscode settings repo](https://github.com/fpigeonjr/vscode-settings). It was inspired by [Anthony Fu's](https://github.com/antfu/vscode-settings) awesome work.
 
 My favorite color themes are [1984](https://github.com/juanmnl/vs-1984), [Moonlight](https://github.com/atomiks/moonlight-vscode-theme), and [Night Owl](https://github.com/sdras/night-owl-vscode-theme).
 
@@ -48,11 +50,11 @@ For my terminal, I have stuck with [iTerm2][iterm2] when on mac. It is reliable,
 
 ### Monitor
 
-I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dream and text and images look really sharp.
+I am now on #teamcrispy with my LG 27UK850-W 27" 4K UHD IPS Monitor. 4K is a dream and text and images look really sharp. I am happy to report less eye strain on this monitor as an added bonus.
 
 ![lg monitor](https://images-na.ssl-images-amazon.com/images/I/718ICn8vZTL._AC_SL1000_.jpg)
 
-Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This new setup helps me stay focused on the task at hand and avoid distractions.
+Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Cory House][cory-house]. It made a lot sense to me and am happy with the new setup. This setup helps me stay focused on the task at hand and avoid distractions.
 
 ## Other Honorable Mentions
 
@@ -74,8 +76,6 @@ Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Co
 [codeup]: http://codeup.com
 [monokaipro]: https://www.monokai.pro/vscode/
 [material facebook]: https://github.com/rmarganti/vsc-material-facebook-theme
-[dracula]: https://draculatheme.com/visual-studio-code/
-[cobalt2]: https://github.com/wesbos/cobalt2-vscode
 [iterm2]: https://www.iterm2.com/
 [pure]: https://github.com/sindresorhus/pure
 [facebook-iterm]: https://github.com/slwen/facebook-iterm-theme
@@ -90,8 +90,6 @@ Inspiration for the setup is from [A Single Monitor Manifesto][manifesto] by [Co
 [slack]: https://slack.com/
 [opendns]: https://www.opendns.com
 [mac]: https://support.apple.com/kb/sp653?locale=en_US
-[rain-stand]: http://a.co/e4cHHEA
 [rpi]: https://www.raspberrypi.org/
 [pihole]: https://pi-hole.net/
-[cascadia-code]: https://github.com/microsoft/cascadia-code
 [nordvpn]: https://go.nordvpn.net/aff_c?offer_id=15&aff_id=3363&url_id=902
