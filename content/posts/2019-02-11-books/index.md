@@ -23,7 +23,7 @@ My goal every year is to read one book a month. Here I will share my book review
 
 Ride shotgun with General Stanley McChrystal in the fight against Al Qaeda in Iraq. Learn how he led his team of teams in a modern complex war and how he changed from the rigid methods of yesterday and used agility, openness, and pushed down authority to those closest to the action. This was recommended reading for work and give it a 5 stars. HOOAH!
 
-[Amazon link](https://www.amazon.com/dp/0525653120/ref=cm_sw_em_r_mt_dp_AZN3DGZQQDXQ88HDVP31)
+[Amazon link](https://smile.amazon.com/dp/B00KWG9OF4/ref=cm_sw_em_r_mt_dp_Z7636KF7Z48BY7M97ZV4)
 
 ## Books I Have Read in 2021
 
@@ -33,7 +33,7 @@ Ride shotgun with General Stanley McChrystal in the fight against Al Qaeda in Ir
 
 JMC hits us with another masterpiece this time taking on the three enemies of our soul: the devil, the flesh, and the world. We learn strategies and practices on how to combat the trifecta of evil. Know your enemy!
 
-[Amazon link](https://smile.amazon.com/dp/B00KWG9OF4/ref=cm_sw_em_r_mt_dp_Z7636KF7Z48BY7M97ZV4)
+[Amazon link](https://www.amazon.com/dp/0525653120/ref=cm_sw_em_r_mt_dp_AZN3DGZQQDXQ88HDVP31)
 
 ### 12. Learning React: Modern Patterns for Developing React Apps
 
