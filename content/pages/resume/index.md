@@ -1,21 +1,29 @@
 ---
 title: 'Resume'
 slug: resume
-cover: ./coffee-bg.jpg
-date: 2021-11-17
+cover: ./report-bg.png
+date: 2022-11-19
 disqus: false
 type: page
 ---
 
 ## Summary
 
-With over 20 years of public sector service, I've broadened my horizons into web design and development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
+With over 20 years of public sector IT service, I've broadened my horizons into web design and development. I'm a U.S. Army veteran, hold a SECRET clearance, and have a Bachelor's Degree in Management, Computer Information Systems. I am fluent in English and Spanish, a focused team player, a lifetime learner, and am excited to take on new challenges that combine my creativity and business sense.
 
 ## Work Experience
 
-### OCT 2021 - Present
+### NOV 2021 - Present
 
-**Front-End Developer/Designer, 10x - Technology Transformation Services (GSA) team @ [Flexion](https://flexion.us)**
+**Front End Developer/Designer, [10x](https://10x.gsa.gov) - Technology Transformation Services (GSA) team @ [Flexion](https://flexion.us)**
+
+- Lead project deliverable and research activities (e.g., workflows, information architecture, sketching, mockups, prototypes, design patterns, microcopy, interaction design, usability testing) understand requirements, goals, and constraints, generating insights that shape the UX strategy and design decisions
+- Work with designers on other product teams to help ensure user interaction and design consistency across the program
+- Advocate for the users while balancing business needs/goals throughout the project
+- Effectively communicate goals, designs, research, feedback, ideas, and requirements (both verbally and visually, when needed) to the team and stakeholders
+- Pair and mob with UX designers, researchers and strategists to collaboratively develop and refine designs, while providing feedback on proposed technical solutions that affect the user experience
+- Prototype, test, and iterate on designs
+- Facilitate collaborative client discovery and design workshops
 
 ### OCT 2017 - Present
 
