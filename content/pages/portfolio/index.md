@@ -13,6 +13,9 @@ type: page
 
 Front end development and user interface design for the Benefits eligibility estimator tool for USAGov. Built with Vue, Nuxt, Vuex, search.gov, and the United States Web Design System (USWDS).
 
+[View Live](https://benefits-tool-beta.usa.gov/) <br/>
+[View Github](https://github.com/GSA/usagov-benefits-eligibility)
+
 ## USWDS Together Report
 
 ![uswds together](./uswds.png)
