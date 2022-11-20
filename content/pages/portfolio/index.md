@@ -2,14 +2,38 @@
 title: 'Portfolio'
 slug: portfolio
 cover: ./mac.jpg
-date: 2021-08-19
+date: 2022-11-19
 disqus: false
 type: page
 ---
 
+## Benefits Eligibility Awareness Resource for USAGov
+
+![bears](./bears.png)
+
+Front end development and user interface design for the Benefits eligibility estimator tool for USAGov. Built with Vue, Nuxt, Vuex, search.gov, and the United States Web Design System (USWDS).
+
+## USWDS Together Report
+
+![uswds together](./uswds.png)
+
+Helped with design and front end development for the United States Web Design System (USWDS) Together Report as part of the USWDS 3.3.0 rollout. Built with Jekyll, SASS, USWDS, and hosted on Pages from Cloud.gov.
+
+[View Live](https://designsystem.digital.gov/together/) <br/>
+[View Github](https://github.com/uswds/uswds-site/)
+
+## Federal Risk and Authorization Management Program (FedRAMP) Automation
+
+![asap](./asap.png)
+
+Helped with design and front end development for ASAP. Built with TypeScript, React, SASS, USWDS, and hosted on Pages from Cloud.gov.
+
+[View Live](https://federalist-b6c4d61f-facd-4833-a4a9-554523a87147.sites.pages.cloud.gov/site/gsa/fedramp-automation/) <br/>
+[View Github](https://github.com/18F/fedramp-automation/)
+
 ## AMEDD Center of History & Heritage
 
-![amedd center of history and ](./achh.png)
+![amedd center of history and heritage](./achh.png)
 
 Redesigned the AMEDD Center of History & Heritage website using the [United States Web Design System (USWDS)](https://designsystem.digital.gov/). Built using Gatsby, .NET API, search.gov, and the USWDS.
 
@@ -37,7 +61,8 @@ Redesigned the U.S. Army Medical Center of Excellence (MEDCoE) public page using
 
 Client work designing the non-profit website for the Threads of Love For Heaven's Sake San Antonio Chapter. Designed and developed from client's paper brochure to fully functional site with donations. Built with Gatsby, React, custom Google Sheets. Hosted on Netlify.
 
-[View Live][tol]
+[View Live][tol] <br/>
+[View Github](https://github.com/sacodersunited/threads-of-love)
 
 ## College Of Biomedical Equipment Technology
 
@@ -45,7 +70,8 @@ Client work designing the non-profit website for the Threads of Love For Heaven'
 
 Client work redesigning the education site for the College Of Biomedical Equipment Technology with modern look, latest tech stack, and hardening the security of the site. Built with Gatsby, React, custom Google Sheets, and Microsoft Azure. Hosted on Netlify.
 
-[View Live][cbet]
+[View Live][cbet] <br/>
+[View Github](https://github.com/sacodersunited/cbet)
 
 ## David Portillo Tenor
 
